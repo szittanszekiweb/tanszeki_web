@@ -1,0 +1,14 @@
+brand: BME SZIT
+
+bootswatch: flatly # null, flatly, yeti, lumen,... 
+navbar_inverse: true  # false, true
+bootstrap: 3.3.5 #3.3.5
+navbar_right_items: 0
+
+reflinks:
+    vik:
+        url: http://www.vik.bme.hu
+        title: VIK
+    bme:
+        url: http://www.bme.hu
+        title: BME 
