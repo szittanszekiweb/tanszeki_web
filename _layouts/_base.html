@@ -3,6 +3,7 @@
   <head>
     <title>{{this.title}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
     <meta charset="utf-8">
   
     <!-- Bootstrap -->
@@ -17,6 +18,8 @@
     {% endif %}
     <link href="//netdna.bootstrapcdn.com/{{theme_path}}/bootstrap.min.css" rel="stylesheet" media="screen">
 
+    <!-- <link rel="stylesheet" href="site.css"> -->
+
     {% set url_prefix = '' %}
     {% if site.baseurl %}
     {%   set url_prefix = '/' + site.baseurl %}
@@ -24,27 +27,16 @@
     <link href="{{url_prefix + '/css/site.css'}}" rel="stylesheet" media="screen">
     <link href="{{url_prefix + '/css/syntax.css'}}" rel="stylesheet" media="screen">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-    
-    <!-- {% include 'analytics.html' %} -->
     {% block head_addon %}
-    <div>
-    <p>
-      {% include 'header_proba.html' %}
-    </p>
-    </div> 
+    
     {% endblock %} 
   </head>
 
   <body>
    
 
-    <!-- Fixed navbar -->
+    <!-- navbar -->
+    <!-- ezt majd torlom -->
     {% set navbar_style = "navbar-default" %}
     {% if site.navbar_inverse %}
     {%   set navbar_style = "navbar-inverse" %}
@@ -54,7 +46,13 @@
     {%   set navbar_right_items = site.navbar_right_items %}
     {% endif %}
     {% set navbar_right_index = site.reflinks['/'].content|length - navbar_right_items %}
-    <div class="navbar {{navbar_style}} navbar-fixed-top">
+    <!-- eddig -->
+
+    <div>
+      <p> csak hogy valami legyen felette.
+    </div> 
+
+    <div class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">

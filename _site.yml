@@ -1,9 +1,11 @@
-brand: BME SZIT
+brand: BME SZIT 
 
 bootswatch: flatly # null, flatly, yeti, lumen,... 
-navbar_inverse: true  # false, true
 bootstrap: 3.3.5 #3.3.5
-navbar_right_items: 0
+
+# Ezeket majd törölni fogok
+navbar_right_items: 1
+# idáig 
 
 reflinks:
     vik:
