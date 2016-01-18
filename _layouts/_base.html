@@ -17,8 +17,7 @@
     {%   set theme_path = "bootstrap/" + bootstrap + "/css" %}
     {% endif %}
     <link href="//netdna.bootstrapcdn.com/{{theme_path}}/bootstrap.min.css" rel="stylesheet" media="screen">
-
-    <!-- <link rel="stylesheet" href="site.css"> -->
+    <link rel="stylesheet" href="site.css">
 
     {% set url_prefix = '' %}
     {% if site.baseurl %}
@@ -35,24 +34,11 @@
   <body>
    
 
-    <!-- navbar -->
-    <!-- ezt majd torlom -->
-    {% set navbar_style = "navbar-default" %}
-    {% if site.navbar_inverse %}
-    {%   set navbar_style = "navbar-inverse" %}
-    {% endif %}
-    {% set navbar_right_items = 1 %}
-    {% if site.navbar_right_items is defined%}
-    {%   set navbar_right_items = site.navbar_right_items %}
-    {% endif %}
-    {% set navbar_right_index = site.reflinks['/'].content|length - navbar_right_items %}
-    <!-- eddig -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <p> csak hogy valami legyen felette.</p>
+      </div> 
 
-    <div>
-      <p> csak hogy valami legyen felette.
-    </div> 
-
-    <div class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -67,7 +53,7 @@
           <ul class="nav navbar-nav navbar-left">
             {% block home %}
             {% endblock %}
-            {% for item in site.reflinks['/'].content[:navbar_right_index] %}
+            {% for item in site.reflinks['/'].content %}
             {%   set context = '' %}
             {%   if item.components|d and this.components[0] == item.components[0] %}
             {%     set context = ' class="active"' %}
@@ -87,33 +73,7 @@
             {% endfor %}
           </ul>
 
-          <form class="navbar-form navbar-left" action="/search.html" role="search">
-            <div class="form-group">
-              <input type="text" required name="q" id="tipue_search_input" class="form-control" placeholder="Search"> 
-            </div>
-          </form>
-
-          <ul class="nav navbar-nav navbar-right">
-            {% for item in site.reflinks['/'].content[navbar_right_index:] %}
-            {%   set context = '' %}
-            {%   if item.components|d and this.components[0] == item.components[0] %}
-            {%     set context = ' class="active"' %}
-            {%   endif %}
-            {%   if item.content|d and item.dropdown %}
-            <li{{context}} class="dropdown">
-              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.title}} <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                {% for subitem in item.content %}
-                <li><a href="{{subitem.url}}">{{subitem.title}}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
-            {% else %}
-            <li{{context}}><a href="{{item.url}}">{{item.title}}</a></li>
-            {%   endif %}
-            {% endfor %}
-          </ul>
-
+        
         </div><!--/.nav-collapse -->
       </div>
     </div>

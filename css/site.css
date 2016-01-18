@@ -1,4 +1,4 @@
-/*body {
+body {
   position: relative;
   padding-top: 50px;
   padding-bottom: 20px;
@@ -6,6 +6,7 @@
 
 code {
   /* color: inherit; */
+
   background-color: transparent;
 }
 
@@ -72,7 +73,7 @@ code {
   font-size: 95%;
 }
 
-/* heading scrolling */
+ heading scrolling 
 
 h2[id]:before, 
 h3[id]:before{
@@ -111,4 +112,3 @@ h3[id]:before{
 }
 
 
-*/

@@ -4,7 +4,7 @@ bootswatch: flatly # null, flatly, yeti, lumen,...
 bootstrap: 3.3.5 #3.3.5
 
 # Ezeket majd törölni fogok
-navbar_right_items: 1
+navbar_right_items: 0
 # idáig 
 
 reflinks:
