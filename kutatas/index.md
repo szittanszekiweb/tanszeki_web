@@ -1,6 +1,6 @@
 ---
 title: Kutatás
-layout: null
+layout: index
 dropdown: true
 content:
     - temak

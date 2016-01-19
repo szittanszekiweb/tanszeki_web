@@ -10,11 +10,32 @@ code {
   background-color: transparent;
 }
 
- .navbar {
+.navbar {
     background-color: #862633; 
 }
 
-.nav .navbar-nav .navbar-left .active { background:#D50032  }
+
+/* currently selected page */
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    background: transparent;
+}
+
+/* currently open dropdown */
+.dropdown-menu>li>a {
+    color: white;
+    background: #862633;
+}
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    background: #963643;
+    /*
+    color: black;
+    background: #D50032;
+    */
+}
 
 
 /*  bme color:#862633 */
