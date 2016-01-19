@@ -1,7 +1,9 @@
 body {
   position: relative;
   padding-top: 100px;
+  padding-top: 0px;
   padding-bottom: 20px;
+  color: inherit;
 }
 
 code {
@@ -14,7 +16,9 @@ code {
     background-color: #862633; 
 }
 
-
+a, a:hover {
+  color: #862633; 
+}
 /* currently selected page */
 .navbar-inverse .navbar-nav>.active>a,
 .navbar-inverse .navbar-nav>.active>a:hover,
@@ -37,28 +41,34 @@ code {
     */
 }
 
-
 /*  bme color:#862633 */
-
-.breadcrumb li a    {
-    color: #862633 ;
+#main-org, #parent-org {
+  font-size: 1em;
+}
+#org-name-big-display {
+  font-size: 1.5em;
 }
 
+#org-name-small-display {
+  font-size: 2em;
+}
+
+
+/*  bme color:#862633 */
+.breadcrumb li a {
+    color: #862633 ;
+}
 
 .navbar_text{
   color: white;
 }
 
-.jumbotron {
-  height: 10px;
-  background-color: transparent;
-  }
-
-.jumbotron h1 {
+h1 {
    font-size: 32px;
    text-align: left;
    font-weight: bold;
-  }
+   color: #862633; 
+}
 
 
 h2 {
@@ -73,11 +83,6 @@ h3 {
    text-align: left;
    font-weight: bold;
    color: #862633;
-}
-
-
-.container .jumbotron {
-padding-left: 0px;
 }
 
 .row h3 { text-align: left;
@@ -185,5 +190,3 @@ h3[id]:before{
     width: 263px;
   }
 }
-
-
