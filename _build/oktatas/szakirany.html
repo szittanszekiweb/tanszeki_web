@@ -21,8 +21,8 @@
    
 
     <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <p> csak hogy valami legyen felette.</p>
+      <div class="container navbar_text">
+        <p> ide jönnek majd a képek, meg ilyesmik</p>
       </div> 
 
       <div class="container">
@@ -45,7 +45,23 @@
                 <li><a href="/oktatas/szakirany.html">Szakirany</a></li>
               </ul>
             </li>
-            <li><a href="/kutatas.html">Kutatás</a></li>
+            <li class="dropdown">
+              <a href="/kutatas/" class="dropdown-toggle" data-toggle="dropdown">Kutatás <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/kutatas/temak.html">Kutatási területeink</a></li>
+                <li><a href="/kutatas/publikaciok.html">Publikációk</a></li>
+                <li><a href="/oktatas/temakiiras.html">Témakiírások</a></li>
+              </ul>
+            </li>
+            <li><a href="/munkatarsak.html">Munkatársaink</a></li>
+            <li class="dropdown">
+              <a href="/rolunk/" class="dropdown-toggle" data-toggle="dropdown">Rólunk <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/rolunk/profil.html">A tanszék profilja és története</a></li>
+                <li><a href="/rolunk/fun.html">Minden, ami vicces</a></li>
+                <li><a href="/rolunk/japan_magyar.html">Japán-magyar konferenciák</a></li>
+              </ul>
+            </li>
           </ul>
 
         
@@ -65,7 +81,11 @@
     </p>
 </div>
 
+
+
+
 <div class="container">
+
 
   <ol class="breadcrumb">
     <li><a href="/">Home</a></li>
@@ -76,6 +96,7 @@
   <div class="page-header">
     <h1>Szakirany</h1>
   </div>
+
 
   <div class="row">
 
@@ -89,10 +110,6 @@
 
 
   </div>
-
-  <ul class="pager">
-    <li class="previous"><a href="/oktatas/msc.html">&larr; MSC</a></li>
-  </ul>
 
     <div class="footer">
         <p>Ide jön majd valami footer</p>

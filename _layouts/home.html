@@ -5,15 +5,86 @@
 
 {% block body %}
 
+
+
+<div class="container">
+
 <div class="jumbotron">
-  <div class="container text-center">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
-         <h1>{{this.title}}</h1>
-         <h2>{{this.tagline}}</h2>
+      <div class="col-md-12">
+         <h1></h1>
       </div>
    </div>
- </div>
+</div>
+    <div class="row">
+      <div class="col-md-8">
+         <h2>Hírek</h2>
+         	<ul>
+         		<li>  
+         			<h3>
+         				Bolyai ösztöndíj oktatónknak
+         			</h3>	
+         			<p>
+         			Pach Péter, tanszékünk adjunktusa elnyerte a Bolyai ösztöndíjat.
+         		    </p>
+         		    <h3>
+         				VIK kiváló oktatói
+         			</h3>	
+         			<p>
+         			Tanszékünk lét oktatója, Szeszlér Dávid és Tóth Géza...
+         		    </p>
+         		</li> 
+         	</ul>	
+
+
+      </div>
+      <div class="col-md-3 col-md-offset-1">
+         <h3>Kapcsolat</h3>
+      </div>
+      
+
+   </div>
+
+
+
+
+  <div class="row">
+
+    <div class="content">
+      {% block content %}
+      <div class="col-md-7" role="main">
+      <main>
+        {{this.body}}
+      </main>
+      </div>
+      {% endblock %}
+    </div>
+
+    {% block sidebar %}
+    {% if this.toc %}
+    <div class="col-md-3" role="complementary">
+      <nav class="hidden-print hidden-xs hidden-sm">
+        <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
+          <div class="well">
+            <a href="#"><strong>{{this.title}}</strong></a>
+            {{this.toc}}
+          </div>
+        </div>
+      </nav>
+    </div>
+    {% endif %}
+    {% endblock %}
+
+  </div>
+
+  
+
+  {% include 'footer_bme.html' %}
+
 </div>
 
 {% endblock %}
+
+
+
+

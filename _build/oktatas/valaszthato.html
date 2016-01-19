@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Kutatás</title>
+    <title>Választható tárgyak</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
     <meta charset="utf-8">
@@ -21,8 +21,8 @@
    
 
     <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <p> csak hogy valami legyen felette.</p>
+      <div class="container navbar_text">
+        <p> ide jönnek majd a képek, meg ilyesmik</p>
       </div> 
 
       <div class="container">
@@ -37,7 +37,7 @@
         <div class="navbar-collapse collapse">
 
           <ul class="nav navbar-nav navbar-left">
-            <li class="dropdown">
+            <li class="active" class="dropdown">
               <a href="/oktatas/" class="dropdown-toggle" data-toggle="dropdown">Oktatás <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="/oktatas/bsc.html">BSC</a></li>
@@ -45,7 +45,23 @@
                 <li><a href="/oktatas/szakirany.html">Szakirany</a></li>
               </ul>
             </li>
-            <li class="active"><a href="/kutatas.html">Kutatás</a></li>
+            <li class="dropdown">
+              <a href="/kutatas/" class="dropdown-toggle" data-toggle="dropdown">Kutatás <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/kutatas/temak.html">Kutatási területeink</a></li>
+                <li><a href="/kutatas/publikaciok.html">Publikációk</a></li>
+                <li><a href="/oktatas/temakiiras.html">Témakiírások</a></li>
+              </ul>
+            </li>
+            <li><a href="/munkatarsak.html">Munkatársaink</a></li>
+            <li class="dropdown">
+              <a href="/rolunk/" class="dropdown-toggle" data-toggle="dropdown">Rólunk <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/rolunk/profil.html">A tanszék profilja és története</a></li>
+                <li><a href="/rolunk/fun.html">Minden, ami vicces</a></li>
+                <li><a href="/rolunk/japan_magyar.html">Japán-magyar konferenciák</a></li>
+              </ul>
+            </li>
           </ul>
 
         
@@ -65,26 +81,32 @@
     </p>
 </div>
 
+
+
+
 <div class="container">
+
 
   <ol class="breadcrumb">
     <li><a href="/">Home</a></li>
-      <li class="active">Kutatás</li>
+      <li><a href="/oktatas/">Oktatás</a></li>
+      <li class="active">Választható tárgyak</li>
   </ol>
 
   <div class="page-header">
-    <h1>Kutatás</h1>
+    <h1>Választható tárgyak</h1>
   </div>
+
 
   <div class="row">
 
     <div class="content">
       <div class="col-md-7" role="main">
       <main>
-        <p>Kábé mik a fő témák.Itt majd lesz egy lista a tárgyakról</p>
-<h2 id="elso-tema">Első téma</h2>
+        <p>Tárgyak listája ide, zárójelben, hogy kinek választható</p>
+<h2 id="valami-kategoria">Valami kategória</h2>
 <p>Leírás.</p>
-<h2 id="masodik-tema">Második téma</h2>
+<h2 id="masodik-targy">Második tárgy</h2>
 <p>Leírás.</p>
       </main>
       </div>
@@ -94,11 +116,11 @@
       <nav class="hidden-print hidden-xs hidden-sm">
         <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
           <div class="well">
-            <a href="#"><strong>Kutatás</strong></a>
+            <a href="#"><strong>Választható tárgyak</strong></a>
             <div class="toc">
 <ul>
-<li><a href="#elso-tema">Első téma</a></li>
-<li><a href="#masodik-tema">Második téma</a></li>
+<li><a href="#valami-kategoria">Valami kategória</a></li>
+<li><a href="#masodik-targy">Második tárgy</a></li>
 </ul>
 </div>
 
@@ -108,10 +130,6 @@
     </div>
 
   </div>
-
-  <ul class="pager">
-    <li class="previous"><a href="/oktatas/">&larr; Oktatás</a></li>
-  </ul>
 
     <div class="footer">
         <p>Ide jön majd valami footer</p>

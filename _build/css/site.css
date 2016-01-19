@@ -10,6 +10,64 @@ code {
   background-color: transparent;
 }
 
+ .navbar {
+    background-color: #862633; 
+}
+
+.nav .navbar-nav .navbar-left .active { background:#D50032  }
+
+
+/*  bme color:#862633 */
+
+.breadcrumb li a    {
+    color: #862633 ;
+}
+
+
+.navbar_text{
+  color: white;
+}
+
+.jumbotron {
+  height: 10px;
+  background-color: transparent;
+  }
+
+.jumbotron h1 {
+   font-size: 32px;
+   text-align: left;
+   font-weight: bold;
+  }
+
+
+h2 {
+   font-size: 26px;
+   text-align: left;
+   font-weight: bold;
+   color: #862633; 
+}
+
+h3 {
+   font-size: 20px;
+   text-align: left;
+   font-weight: bold;
+   color: #862633;
+}
+
+
+.container .jumbotron {
+padding-left: 0px;
+}
+
+.row h3 { text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+}
 .page-header {
   margin-top: 30px;
 }

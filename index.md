@@ -1,10 +1,10 @@
 ---
-title: BME SZIT
-layout: home 
+title: Számítástudományi és Információelméleti Tanszék
+layout: home
 content:
     - oktatas
     - kutatas
-
-tagline:
-    Ez itt a főoldal. 
+    - munkatarsak
+    - rolunk
 ---
+
