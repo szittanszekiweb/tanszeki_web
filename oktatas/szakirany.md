@@ -1,5 +1,5 @@
 ---
-title: Szakirany
+title: Szakirány
 layout: page 
 pager: true 
 ---

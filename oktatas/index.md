@@ -6,4 +6,8 @@ content:
     - bsc
     - msc
     - szakirany
+    - doktori
+    - nem_magyar
+    - temakiiras
+    - tehetseg
 ---

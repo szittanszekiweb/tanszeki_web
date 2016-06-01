@@ -1,18 +1,38 @@
 ---
 title: BSC
-layout: page 
-pager: true 
+layout: simple_page 
+pager: true
 ---
 
-BSc-s tárgyak.
+Műszaki informatikus szak
+=========================
 
-Első tárgy
-=================
+[Adatbányászat labor](https://portal.vik.bme.hu/kepzes/targyak/VISZA384/)
 
-Leírás.
+[Algoritmuselmélet](http://www.cs.bme.hu/algel)
 
-Második tárgy
-=============
+[Bevezetés a számításelméletbe 1.](http://www.cs.bme.hu/bsz1)
 
-Leírás.
+[Bevezetés a számításelméletbe 2.](http://www.cs.bme.hu/bsz2)
 
+[Deklaratív programozás](http://dp.iit.bme.hu/) 
+
+[Valószínűségszámítás](http://www.szit.bme.hu/~kela/ind1.html)
+
+
+Villamosmérnök szak
+===================
+
+[Számítástudomány alapjai](http://www.cs.bme.hu/sza)
+
+
+Matematikus szak
+================
+
+[Kombinatorika és gráfelmélet 1.](http://www.renyi.hu/~geza/kombi/)
+
+[Kombinatorika és gráfelmélet 2.](http://www.renyi.hu/~geza/kombi2/)
+
+Egészségügyi szervező szak
+==========================
+[Adatstruktúrák és algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZA062)
