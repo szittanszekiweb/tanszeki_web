@@ -13,4 +13,9 @@ reflinks:
         title: VIK
     bme:
         url: http://www.bme.hu
-        title: BME 
+        title: BME
+    cimlapok: 
+        url: http://www.cs.bme.hu/cimlapok
+        title: Oktatóink könyvei
+
+

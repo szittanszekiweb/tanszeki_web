@@ -1,19 +1,19 @@
 ---
 title: Tehetséggondozás
-layout: page 
+layout: simple_page 
 pager: true 
 ---
 
 
-IMSC és ACm jön majd ide
 
-Első tárgy
-=================
+IMSC 
+=====
 
-Leírás.
+Általános leírás a tanszék gyakorlatáról
 
-Második tárgy
-=============
+Szakkör
+=======
 
-Leírás.
+[ACM szakkör](http://cs.bme.hu/acm/) 
+
 
