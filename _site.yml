@@ -17,5 +17,17 @@ reflinks:
     cimlapok: 
         url: http://www.cs.bme.hu/cimlapok
         title: Oktatóink könyvei
-
-
+    szeminarium:
+        url: http://cs.bme.hu/szeminarium/
+        title: Tanszéki szeminárium 
+    emlekoldal:
+        url: http://cs.bme.hu/emlekezes/
+        title: Emlékezés régi kollégáinkra    
+    teremfoglaltsag:
+        url: http://cs.bme.hu/teremfoglaltsag.html
+        title: Tanszéki termek foglaltsága
+    konferenciak:
+        url: http://cs.bme.hu/epizodok/konferenciak/
+        title: Tanszéki konferenciák     
+         
+           

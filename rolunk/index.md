@@ -3,7 +3,12 @@ title: Rólunk
 layout: index
 dropdown: true
 content:
+    - kapcsolat
     - profil
     - fun
-    - japan_magyar
+    - konferenciak
+    - archivum
+    - szeminarium
+    - emlekoldal
+    - teremfoglaltsag
 ---

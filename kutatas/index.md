@@ -3,8 +3,8 @@ title: Kutatás
 layout: index
 dropdown: true
 content:
-    - teruletek
     - publikaciok
+    - otka
     - ../oktatas/temakiiras
     - cimlapok
 ---
