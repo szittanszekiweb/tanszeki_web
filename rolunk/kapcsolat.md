@@ -8,22 +8,15 @@ Budapesti Műszaki és Gazdaságtudományi Egyetem
 
 Számítástudományi és Információelméleti Tanszék
 
-Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132
+{{site.kapcsolat_cim}}
 
 
 
 Elérhetőségek
 -------------
-telefon: +36-1-463-2585 
 
-fax: +36-1-463 3157 
+telefon: {{site.kapcsolat_telefon}}
 
-email: [tszvez@cs.bme.hu](mailto: tszvez@cs.bme.hu)
+fax: {{site.kapcsolat_fax}}
 
-
-
-
-
-
-
-
+email: [{{site.kapcsolat_email}}](mailto:{{site.kapcsolat_email}})
