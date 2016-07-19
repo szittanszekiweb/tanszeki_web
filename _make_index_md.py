@@ -9,7 +9,7 @@ import yaml
 # read news directory
 import glob
 filenames = (
-    filename for filename in glob.glob('news/*.md')
+    filename for filename in glob.glob('hirek/*.md')
     if not filename.endswith('index.md'))
 
 
