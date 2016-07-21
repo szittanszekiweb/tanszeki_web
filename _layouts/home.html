@@ -10,71 +10,24 @@
 <div class="container">
 
     <div class="row">
-      <div class="col-md-8">
-         <h2>Hírek</h2>
-          <ul>
-            <li>  
-              <h3>
-                Bolyai ösztöndíj oktatónknak
-              </h3> 
-              <p>
-                Pach Péter, tanszékünk adjunktusa elnyerte a Bolyai ösztöndíjat.
-              </p>
-              <h3>
-                VIK kiváló oktatói
-              </h3> 
-              <p>
-                Tanszékünk két oktatója, Szeszlér Dávid és Tóth Géza...
-              </p>
-            </li> 
-          </ul> 
-
-
-      </div>
-      <div class="col-md-3 col-md-offset-1">
-         <h3>Kapcsolat</h3>
-         <img alt="minipic" src="./fenykepek/katona.jpg" title="=100x20">
-      </div>
-      
-
-   </div>
-
-
-
-
-  <div class="row">
-
-    <div class="content">
+      <div class="content-home">
       {% block content %}
-      <div class="col-md-7" role="main">
-      <main>
-        {{this.body}}
-      </main>
-      </div>
-      {% endblock %}
-    </div>
-
-    {% block sidebar %}
-    {% if this.toc %}
-    <div class="col-md-3" role="complementary">
-      <nav class="hidden-print hidden-xs hidden-sm">
-        <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
-          <div class="well">
-            <a href="#"><strong>{{this.title}}</strong></a>
-            {{this.toc}}
-          </div>
+        <div class="col-md-8" role="main">
+          <main>
+            {{this.body}}
+          </main>
         </div>
-      </nav>
+        <div class="col-md-3 col-md-offset-1" >
+          <h3>Kapcsolat</h3>
+          <img alt="minipic" src="./fenykepek/katona.jpg" title="=100x20">
+        </div>
+      {% endblock %}
+      </div>
     </div>
-    {% endif %}
-    {% endblock %}
-
-  </div>
-
-  
-
-  {% include 'footer_bme.html' %}
 
 </div>
+
+{% include 'footer_bme.html' %}
+
 
 {% endblock %}
