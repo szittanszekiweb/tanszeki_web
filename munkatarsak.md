@@ -58,6 +58,8 @@ Külső munkatársak
 Adminisztráció, rendszergazdák
 ==============================
 
-|Czenkiné Boltizár Katalin	 	<br> tanszéki adminisztrátor <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:czenki@cs.bme.hu) | Magyarné Boltizár Ildikó	 	<br> tanszéki adminisztrátor<br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:boltizar@cs.bme.hu) | 
-|Vas Lászlóné	 	<br> hivatalsegéd> <br> IB.132 <br>	tel: 463-2585 | trallala |
+|               |               |
+| ------------- |---------------| 
+|Czenkiné Boltizár Katalin	 	<br> gazdasági ügyintéző <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:czenki@cs.bme.hu) | Magyarné Boltizár Ildikó	 	<br> ügyvivő szakértő <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:boltizar@cs.bme.hu) | 
+|Vas Lászlóné	 	<br> hivatalsegéd <br> IB.132 <br>	tel: 463-2585 |  |
 |Bornemissza Péter	 	<br> rendszergazda <br> IE.504 <br>	tel: 30/otkilencvenegy-2693	<br> [email](mailto:bornemissza.peter@cs.bme.hu) |Molnár Péter	 	<br> rendszergazda<br> IB.135  <br>	tel: 30/nyolcnegyvenegy-2320	<br> [email](mailto:mpeter@cs.bme.hu) |

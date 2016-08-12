@@ -7,7 +7,7 @@ content:
     - profil
     - fun
     - konferenciak
-    - archivum
+    - hirek
     - szeminarium
     - emlekoldal
     - teremfoglaltsag

@@ -29,6 +29,10 @@ reflinks:
     konferenciak:
         url: http://cs.bme.hu/epizodok/konferenciak/
         title: Tanszéki konferenciák     
+    hirek:
+        url: /hirek
+        title: Hírek archívuma        
+
 
 # tobb helyen hasznalt
 kapcsolat_cim: Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132

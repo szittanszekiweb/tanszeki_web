@@ -1,5 +1,5 @@
 ---
-title: Newsfeed
+title: Hírek
 layout: newsfeed 
 order: date
 reverse: true
