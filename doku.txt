@@ -1,0 +1,18 @@
+A weboldal  html file-jai az urubu nevű programmal készültek. (A program megtalálható a github-on nálam itt: , referencialinkek a programról általában itt és itt.)
+
+Az urubu a html oldalakat három féle file-ból állítja elő:
+
+- A css directoryban vannak az általános formázásért felelős  css file-ok (bootstrap beállítások, mekkorák legyenek a különféle blokkok paraméterei, milyen színek, fontok legyenek), ehhez általában nem kell hozzányúlni, hacsak pl. nem akarunk valami más színt vagy fontot használni valahol. 
+
+- A _layouts directory-ban vannak a különböző oldalak speciális formázásai, az itt beállított html file-okban lehet az egyes weboldalak formáját beállítani: több oszlopban legyen-e a tartalom tördelve, legyen-e tartalomjegyzék, stb. Minden később létrehozott weboldal egy innen választott html oldalból kapja majd a stílusát. Az alap stílus neve _base.html, itt van beállítva, hogy milyen legyen az a rész, ami minden oldalon megjelenik, pl. a navigáció felül, a fejléc és a footer alul. 
+
+A _base.html-re épülnek további stílusfile-ok, jelenleg a home.html a főoldal formátumát írja le (vagyis, hogy a fejlécen és a navigáción kívül hogyan nézzenn ki a főoldal), a page.html és a simple_page.html pedig a többi oldalt formázza (ez utóbbi kettő  között csak az a különbség, hogy a simple_ben nincs tartalomjegyzék).  Van még egy newsfeed layout is, ez a híreket csinálja.
+
+- A weboldalak tartalma md kiterjesztésű file-okban van. A főoldal tartalmát az _index.md fileban lehet szerkeszteni, a content részben vannak felsorolva a navigációs sor linkjei, alatta pedig az, hogy mi legyen a tartalmi rész a főoldalon (ehhez csak akkor kell nyúlni, ha új linket akarunk betenni a navigációs sorba vagy ha a Hírek helyett valami mást akarunk ide). Minden más tartalmi dolog könyvtárakba rendezett md file-okban vannak. A könyvtárak a navigációban szereplő fő linkeknek felelnek meg, pl. van egy Kutatás nevű link, ehhez tartozik a kutatas directory. A kutatas directory index.html-jében lehet ennek a menüpontnak az almenüit megadni, szintén a content részben (és itt lehet a Title-ban beállítani, hogy mi legyen odaírva a kutatas linkhez, most pl. Kutatás). Ide lehet olyan nevet írni, amilyen md file a könyvtárban van (pl. a kutatasban publikaciok) vagy relatív linket is meg lehet adni (pl. ../oktatas/temakiiras). Ha olyan linket akarunk használni, ami egy külső helyre mutat, akkor adni kell a linknek egy nevet, azt kell a content részbe beírni és az adott nevet a _site.yml file-ban lehet hozzákapcsolni a külső forrás url címéhez.
+
+
+A _site.yml-ben olyan referencia linkek is vannak, amiket több olalon is használok és itt van még annak a beállítása is, hogy milyen bootstrap-et használok (ehhez nem nyúltam, azt használom, ami eredetileg volt a példában).
+
+A hirek a következőképpen működik: van egy hirek könyvtár, itt kell md formátumban megírni külön file-okba  a híreket, a file neve a dátum legyen év-hónap-nap formátumban, md kiterjesztéssel. A hirek könyvtárban levő index.md azt csinálja, hogy ezeket dátum szerint csökkenő sorrendben veszi (és így kerülnek a hírek archívumába a Rólunk részbe), a főoldalra pedig az utolsó 4 hír kerül csak ki mindig.
+
+Az urubu a fenti file-okból elkészíti a html oldalakat a _build könyvtárba. Ez úgy történik, hogy be kell lépni a főkönyvtárba (nálam tanszeki_web) és innen ki kell adni a make parancsot. Ezután a _build a directory minden html file-t tartalmaz, ami kell. Megnézni úgy lehet azt, amit létrehoztunk, hogy a főkönyvtárból (nálam tanszeki_web) kiadjuk az urubu serve parancsot és ekkor a böngészőben a   http://localhost:8000/ hyelen megnézhető a weboldal.
