@@ -32,6 +32,10 @@ reflinks:
     hirek:
         url: /hirek
         title: Hírek archívuma        
+    angolul:
+        url: http://www.cs.bme.hu/eng
+        title: Same in English
+
 
 
 # tobb helyen hasznalt

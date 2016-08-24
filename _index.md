@@ -6,6 +6,7 @@ content:
     - kutatas
     - munkatarsak
     - rolunk
+    - angolul
 ---
 # Hírek
 
