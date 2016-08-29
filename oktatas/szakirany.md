@@ -20,5 +20,7 @@ Pénzügyi informatika specializáció (gazdaságinformatikus szak)
 ================================================================
 
 
+[Algoritmikus tőzsdei folyamat-előrejelzés](https://portal.vik.bme.hu/kepzes/targyak/VISZM107/)
 
+[Pénzügyi befektetések tervezése](https://portal.vik.bme.hu/kepzes/targyak/GT35M404/)
 
