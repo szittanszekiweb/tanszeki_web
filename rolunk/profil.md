@@ -12,7 +12,7 @@ Az analízist kivéve (amit a Matematikai Intézethez tanít), a mi tanszékünk
 
 Gazdaságinformatikus Msc képzésben a Pénzügyi informatika specializációt, az informatikus hallgatók számára pedig egy MSc-s mellékspecializációt kínálunk elméleti számítástudományból. Ez utóbbin belül haladó algoritmuselméletet, haladó gráfelméletet, adatbányászatot és nagy hatékonyságú deklaratív programozást oktatunk. Szintén az informatikusoknak szóló mesterképzésben oktatjuk a Rendszeroptimalizálás, Nyelvek és automaták és Tömegkiszolgálás tárgyakat, melyek a legtöbb MSc-s hallgatónak kötelezőek.
 
-A fenti témák egy részéért a Természettudományi Kar matematikus szakán is mi vagyunk a felelősek.
+A fenti témák egy részéért a Természettudományi Kar matematikus és alkalmazott matematikus szakán is mi vagyunk a felelősek.
 
 A tanszék munkatársai az elméleti és alkalmazott matematika számos különböző területein vesznek részt kutatásokban. Munkánkat az elmúlt 20 évben több mint 25 kutatási támogatás segítette, részben magyar forrásokból (Oktatási Minisztérium, Közlekedési Minisztérium, TÁMOP, OTKA stb.), részben Európai Uniós projektekből (TEMPUS, CEEPUS, Human Capital és mobilitás), illetve kétoldalú megállapodásokból az USA-ból és Japánból. 
 
