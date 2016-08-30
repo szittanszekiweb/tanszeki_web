@@ -17,3 +17,4 @@ content:
 ({{item.header.date}})
 {% endfor %}
 
+[Archívum](./hirek/index.html)
