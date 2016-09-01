@@ -22,7 +22,7 @@ Publikációs listák
 
 [Dr. Györfi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10000589): sztochasztikus approximáció, statisztikus alakfelismerés, nemparaméteres függvénybecslés, többszörös hozzáférésű csatornák kódolása, empirikus portfólió stratégiák
 
-[Kabódi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10050846): kvantum algoritmusok
+[Kabódi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10050846): kvantum algoritmusok, kvantum szimuláció
 
 [Dr. Katona Gyula Y.](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010571): gráfelmélet, hipergráfok, gráfok megbízhatósági paraméterei, párosítások, algoritmusok, gráf kövezés
 
