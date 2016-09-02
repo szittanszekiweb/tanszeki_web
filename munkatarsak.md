@@ -44,7 +44,7 @@ Külső munkatársak
 | ------------- |---------------| 
 | Balázs Barbara	 	 	<br> babraat@cs.bme.hu | Bérczi Kristóf	 	 	 	<br> berczikr@freemail.hu |
 | Buzga Viktor	 	 	 	<br> vik.barca@gmail.com |  [Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)	 	 	 	<br> daroczyb@sztaki.hu |
-| Drótos Márton	 	 	 	<br>marton.drotos@sztaki.hu | Kaszanitzky Viktória	 	 	<br> blunoka@gmail.com |
+| Drótos Márton	 	 	 	<br>marton.drotos@sztaki.hu | Kaszanitzky Viktória	 	 	<br> kaszanitzky@cs.bme.hu |
 | Kápolnai Richárd	 	 	<br> richard@iit.bme.hu | Kiss Gergely	 	 	 	    <br> kisss@cs.elte.hu |
 | Kőrösi Attila	 	 	 	<br> korosi@tmit.bme.hu | Mester Beáta	 	 	 	    <br>  banan.bea@citromail.hu |
 | Mihálka Éva Zsuzsanna	 	<br> zsmihalka@gmail.com | Nagy Péter	 	 	 	    <br> peternagy0619@gmail.com |
