@@ -48,6 +48,8 @@ Matematikus szak
 
 [Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
 
+[Gráfok, hipergráfok és alkalmazásaik - matematikusoknak](https://www.ttk.bme.hu/kepzes/MSc/tantargyak/matematika/Grafok,%20hipergrafok%20es%20alkalmazasaik.pdf)
+
 [Kombinatorikus optimalizálás](http://www.cs.bme.hu/rendszeropt)
 
 [Közgazdasági és pénzügyi idősorok](https://portal.vik.bme.hu/kepzes/targyak/VISZM021/)

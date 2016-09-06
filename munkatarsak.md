@@ -35,7 +35,7 @@ Doktoranduszok
 |               |               |               |               |
 | ------------- |---------------| ------------- |---------------| 
 |Kabódi László  <br> IB 137/a  <br> 463-3156 <br> [email](mailto:kabodil@gmail.com) | ![minipic](./fenykepek/kabodi.jpg =100x20) | Papp László	<br> IE.2.17.3 <br>	463-3159 <br> [email](mailto:lazsa@gmail.com)	| ![minipic](./fenykepek/papp.jpg =100x20)| 
-|Varga Kitti 	<br> IE.2.17.2 <br>	463-3158 <br> [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)  | Zlatniczki Ádám  <br> IE.2.17.2 <br>	463-3158 <br>[email](mailto:adam.zlatniczki@cs.bme.hu)	| | | |
+|Varga Kitti 	<br> IE.2.17.2 <br>	463-3158 <br> [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)  | [Zlatniczki Ádám](http://cs.bme.hu/~adam.zlatniczki/)  <br> IE.2.17.2 <br>	463-3158 <br>[email](mailto:adam.zlatniczki@cs.bme.hu)	| | | |
 
 Külső munkatársak
 ==================

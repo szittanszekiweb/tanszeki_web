@@ -122,7 +122,7 @@ dr. Sali Attila
 
 dr. Simonyi Gábor
 
-* [Gráfszínezések](http://www.cs.bme.hu/dok/simonyi1.html) 
+* [Gráfszínezések](http://www.cs.bme.hu/dok/simonyi.html) 
 * [Információelmélet a gráfelméletben](http://www.cs.bme.hu/dok/simonyib.html) 
 
 
@@ -159,5 +159,5 @@ Zlatniczki Ádám
 
 * [Big Data technológiák alkalmazása nagyméretű adatok elemzésére](http://www.cs.bme.hu/dok/zlatniczki1.html) 
 * [Optimális portfóliók vizsgálata, tervezése](http://www.cs.bme.hu/dok/zlatniczki2.html) 
-
+* [Hatékony vizsgáztatási rendszer tervezése és fejlesztése](http://cs.bme.hu/dok/zlatniczki3.html)
 

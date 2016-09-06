@@ -26,21 +26,23 @@ Publikációs listák
 
 [Dr. Katona Gyula Y.](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010571): gráfelmélet, hipergráfok, gráfok megbízhatósági paraméterei, párosítások, algoritmusok, gráf kövezés
 
+[Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138)
+
 [Dr. Ketskeméty László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012962): valószínűségszámítás, SPSS, valószínűségszámítás
 
 [Dr. Pach Péter Pál](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10029721): csoportelmélet, számelmélet, kombinatorika
 
 [Papp László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10047037): gráfelmélet, gráf kövezés
 
-[Dr. Pintér Márta](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10017924): valószínűségszámítás, valószínűségszámítás
+[Dr. Pintér Márta](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10017924): valószínűségszámítás
 
 [Dr. Recski András](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10005906): gráfelmélet, kombinatorikus optimalizálás, matroidok elmélete, VLSI
 
 [Dr. Sali Attila](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10002916): extremális halmazrendszerek, adatbázisok elmélete,  gráfelmélet
 
-[Dr. Simonyi Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10006090): gráfelmélet, information theory, colourings of graphs, graph capacities
+[Dr. Schlotter Ildikó](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10041230): parametrikus bonyolultságelmélet, algoritmuselmélet
 
-[Dr. Schlotter Ildikó](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10041230): parametrikus bonyolultságelmélet, algoritmuselmélet, bonyolultságelmélet
+[Dr. Simonyi Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10006090): kombinatorika, gráfelmélet, információelmélet
 
 [Dr. Szeredi Péter](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10001667): deklaratív programozás, logikai programozás, korlátok,  Prolog, szemantikus technológiák: szemantikus világháló, szemantikus integráció, párhuzamos programozás, párhuzamos logikai programozás, programozási nyelvek megvalósítása
 

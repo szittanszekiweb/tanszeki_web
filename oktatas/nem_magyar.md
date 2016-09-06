@@ -27,4 +27,4 @@ Angol nyelvű képzés
 
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 
-[Theory of Algorithm](http://cs.bme.hu/thalg/)
+[Theory of Algorithms](http://cs.bme.hu/thalg/)
