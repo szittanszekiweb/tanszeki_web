@@ -26,7 +26,7 @@ Publikációs listák
 
 [Dr. Katona Gyula Y.](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010571): gráfelmélet, hipergráfok, gráfok megbízhatósági paraméterei, párosítások, algoritmusok, gráf kövezés
 
-[Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138)
+[Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138): gráfelmélet, matroidelmélet, kombinatorikus merevség
 
 [Dr. Ketskeméty László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012962): valószínűségszámítás, SPSS, valószínűségszámítás
 

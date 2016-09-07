@@ -16,9 +16,8 @@ Számításelmélet mellékspecializáció (műszaki informatikus szak)
 [Nagyméretű adathalmazok kezelése](https://portal.vik.bme.hu/kepzes/targyak/VISZMA01/cs.bme.hu/nagyadat)
 
 
-Pénzügyi informatika specializáció (gazdaságinformatikus szak)
+[Pénzügyi informatika specializáció (gazdaságinformatikus szak)](http://fininf.cs.bme.hu/)
 ================================================================
-
 
 [Algoritmikus tőzsdei folyamat-előrejelzés](https://portal.vik.bme.hu/kepzes/targyak/VISZM107/)
 
