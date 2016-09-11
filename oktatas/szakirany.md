@@ -1,5 +1,5 @@
 ---
-title: Szakirány
+title: Specializációk
 layout: simple_page 
 pager: true 
 ---

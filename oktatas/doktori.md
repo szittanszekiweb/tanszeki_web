@@ -12,17 +12,20 @@ Doktori tárgyak
 
 [Algoritmikus kérdések a bioinformatikában](https://portal.vik.bme.hu/kepzes/targyak/VISZD303/)
 
+[A lineáris algebra numerikus módszerei](http://cs.bme.hu/~friedl/lanm/)
+
 [Geometriai algoritmusok](http://www.renyi.hu/~geza/geoalg/)
 
 [Gráfok és információelmélet](https://portal.vik.bme.hu/kepzes/targyak/VIMAD056/)
 
+[Haladó adatszerkezetek és algoritmuselemzési technikák](http://www.cs.bme.hu/haladoadat/)
+
 [Matematikai statisztika](https://portal.vik.bme.hu/kepzes/targyak/VISZD302/)
 
-[Nemnegatív elemű mátrixok](https://portal.vik.bme.hu/kepzes/targyak/VISZDV03/)
+[Mátrixanalízis](http://cs.bme.hu/~friedl/matrix/)
 
 [Portfólió- és opcióelméleti alapok](https://portal.vik.bme.hu/kepzes/targyak/VISZD307/)
 
-[Véletlen mátrixok sajátértékei](https://portal.vik.bme.hu/kepzes/targyak/VISZDV04/)
 
 Választható tárgyak, szakkör
 ===========================
