@@ -52,7 +52,7 @@ Publikációs listák
 
 [Dr. Tóth Géza](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10001236): kombinatorikus geometria
 
-[Varga Kitti](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051898)
+[Varga Kitti](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051898): gráfelmélet, szívós gráfok
 
 [Dr. Wiener Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10013051):	kombinatorika,  kereséselmélet,  gráfelmélet,  hipergráfok
 
