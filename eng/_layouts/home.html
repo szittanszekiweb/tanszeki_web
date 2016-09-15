@@ -1,0 +1,56 @@
+{% extends "_base.html" %}
+
+{% block home %} 
+{% endblock %}
+
+{% block body %}
+
+
+
+<div class="container">
+
+    <div class="row">
+      <div class="content-home">
+      {% block content %}
+        <div class="col-md-8" role="main">
+          <main>
+            {{this.body}}
+          </main>
+        </div>
+        <div class="col-md-3 col-md-offset-1" >
+          <h3>Contact</h3>
+
+          <img alt="minipic" src="./fenykepek/katona.jpg" title="=100x20">
+          <p>
+          </p>
+          <p> <h4> Katona Gyula Y. </h4>
+          head of department
+          </p>  
+
+          <p> <font color="#862633"> adress </font>:
+          <br> Budapest, 1117,
+          <br>
+          Magyar tudósok körútja 2.
+          <br> 
+          I épület, IB132
+          </p>
+
+          <p> <font color="#862633"> tel </font>: +36 1 463 2585 </p>
+
+          <p> <font color="#862633"> fax </font>: +36 1 463 3157  </p>
+
+          <p>  <font color="#862633"> email </font>: tszvez@cs.bme.hu</p>
+
+          
+        
+        </div>
+      {% endblock %}
+      </div>
+    </div>
+
+</div>
+
+{% include 'footer_bme.html' %}
+
+
+{% endblock %}

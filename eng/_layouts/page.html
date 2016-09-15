@@ -1,0 +1,56 @@
+{% extends "_base.html" %}
+
+{% block body %}
+
+<div class="container">
+
+  {% block breadcrumbs %}
+  <ol class="breadcrumb">
+    <li><a href="{{url_prefix + '/'}}">BME SZIT</a></li>
+      {% for bc in this.breadcrumbs[:-1] %}
+      <li><a href="{{bc.url}}">{{bc.title}}</a></li>
+      {% endfor %}
+      <li class="active">{{this.breadcrumbs[-1].title}}</li>
+  </ol>
+  {% endblock %}
+
+  <div class="page-header">
+    {% block title %}
+    <h1>{{this.title}}</h1>
+    {% endblock %}
+  </div>
+
+  <div class="row">
+
+    <div class="content">
+      {% block content %}
+      <div class="col-md-7" role="main">
+      <main>
+        {{this.body}}
+      </main>
+      </div>
+      {% endblock %}
+    </div>
+
+    {% block sidebar %}
+    {% if this.toc %}
+    <div class="col-md-3" role="complementary">
+      <nav class="hidden-print hidden-xs hidden-sm">
+        <div class="sidebar" data-spy="affix" data-offset-top="80" data-offset-bottom="60">
+          <div class="well">
+            <a href="#"><strong>{{this.title}}</strong></a>
+            {{this.toc}}
+          </div>
+        </div>
+      </nav>
+    </div>
+    {% endif %}
+    {% endblock %}
+
+  </div>
+
+  {% include 'footer_bme.html' %}
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,25 @@
+brand: BME SZIT 
+
+bootswatch: flatly # null, flatly, yeti, lumen,... 
+bootstrap: 3.3.5 #3.3.5
+
+# Ezeket majd törölni fogom
+navbar_right_items: 0
+# idáig 
+
+reflinks:
+    vik:
+        url: http://www.vik.bme.hu/en
+        title: VIK
+    bme:
+        url: http://www.bme.hu/en
+        title: BME
+    same_in_hungarian:
+        url: http://www.cs.bme.hu
+        title: Hungarian version
+
+# tobb helyen hasznalt
+kapcsolat_cim: Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132
+kapcsolat_telefon: +36-1-463-2585
+kapcsolat_fax: +36-1-463 3157
+kapcsolat_email: tszvez@cs.bme.hu

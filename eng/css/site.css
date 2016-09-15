@@ -1,0 +1,202 @@
+/* ez csinálja  a kicsi képet*/
+
+img[alt="minipic"] { 
+  max-width:  100px; 
+  display: block;
+}
+
+
+
+body {
+  position: relative;
+  padding-top: 100px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  color: inherit;
+}
+
+code {
+  /* color: inherit; */
+
+  background-color: transparent;
+}
+
+.navbar {
+    background-color: #862633; 
+}
+
+a, a:hover {
+  color: #862633; 
+}
+/* currently selected page */
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    background: transparent;
+}
+
+/* currently open dropdown */
+.dropdown-menu>li>a {
+    color: white;
+    background: #862633;
+}
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    background: #963643;
+    /*
+    color: black;
+    background: #D50032;
+    */
+}
+
+/*  bme color:#862633 */
+#main-org, #parent-org {
+  font-size: 1em;
+}
+#org-name-big-display {
+  font-size: 1.5em;
+}
+
+#org-name-small-display {
+  font-size: 2em;
+}
+
+
+/*  bme color:#862633 */
+.breadcrumb li a {
+    color: #862633 ;
+}
+
+.navbar_text{
+  color: white;
+}
+
+h1 {
+   font-size: 32px;
+   text-align: left;
+   font-weight: bold;
+   color: #862633; 
+}
+
+
+h2 {
+   font-size: 26px;
+   text-align: left;
+   font-weight: bold;
+   color: #862633; 
+}
+
+h3 {
+   font-size: 20px;
+   text-align: left;
+   font-weight: bold;
+   color: #862633;
+}
+
+.row h3 { text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+}
+.page-header {
+  margin-top: 30px;
+}
+
+.content h2:first-of-type {
+  margin-top: 0px;
+}
+
+
+.half-rule {
+  width: 100px;
+  margin: 25px auto;
+}
+
+
+.fa {
+  margin-right: 0.5em;
+}
+
+.checklist {
+  padding: 0;
+  list-style: none;
+}
+
+/* footer */
+
+.footer {
+  margin-top: 30px;
+  padding-top: 16px;
+  color: #777;
+  border-top: 1px solid #eee;
+  font-size: 90%;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0px;
+}
+
+/* toc */
+
+.sidebar {
+  font-size: 90%;
+  line-height: normal
+}
+
+.toc ul  {
+  padding-left: 0;
+  list-style: none;
+}
+
+.toc ul li {
+  padding-top: 3px;
+}
+
+.toc ul ul {
+  padding-left: 10px;
+  font-size: 95%;
+}
+
+ heading scrolling 
+
+h2[id]:before, 
+h3[id]:before{
+  content: "";
+  display: block;
+  height: 70px;
+  margin-top:-70px;
+}
+
+/* affix hacks from boostrap 3.0 docs */
+.sidebar.affix {
+    position: static;
+}
+
+@media (min-width: 992px) {
+  /* Widen the fixed sidebar */
+  .sidebar.affix,
+  .sidebar.affix-bottom {
+    width: 213px;
+  } 
+  .sidebar.affix {
+    position: fixed; /* Undo the static from mobile first approach */
+    top: 80px;
+  }
+  .sidebar.affix-bottom {
+    position: absolute; /* Undo the static from mobile first approach */
+  }
+}
+
+@media (min-width: 1200px) {
+  /* Widen the fixed sidebar again */
+  .sidebar.affix,
+  .sidebar.affix-bottom {
+    width: 263px;
+  }
+}

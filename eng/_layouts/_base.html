@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{this.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <meta charset="utf-8">
+
+    <link rel="icon" type="image/png" href="/sziticon.png" />
+
+    <!-- Bootstrap -->
+    {% set bootstrap = "3.1.1" %}
+    {% if site.bootstrap %}
+    {%   set bootstrap = site.bootstrap %}
+    {% endif %}
+    {% if site.bootswatch %}
+    {%   set theme_path = "bootswatch/"+ bootstrap + '/' + site.bootswatch %}
+    {% else %}
+    {%   set theme_path = "bootstrap/" + bootstrap + "/css" %}
+    {% endif %}
+    <link href="//netdna.bootstrapcdn.com/{{theme_path}}/bootstrap.min.css" rel="stylesheet" media="screen">
+
+    {% set url_prefix = '' %}
+    {% if site.baseurl %}
+    {%   set url_prefix = '/' + site.baseurl %}
+    {% endif %}
+    <link href="{{url_prefix + '/css/site.css'}}" rel="stylesheet" media="screen">
+    <link href="{{url_prefix + '/css/syntax.css'}}" rel="stylesheet" media="screen">
+
+    {% block head_addon %}
+    {% endblock %} 
+  </head>
+
+  <body>
+   
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-3">
+        <a href="https://www.bme.hu/en">
+          <img src="/bme_logo_kicsi_color.png" class="img-responsive">
+        </a>
+      </div>
+      <div class="hidden-xs hidden-sm text-left">
+        <div class="col-md-8" style="color:#862633" style="font-family:'Courier New'">
+          <div id="main-org">
+            <a href="http://www.bme.hu/en">
+              Budapest University of Technology and Economics
+            </a>  
+          </div>
+          <div id="parent-org">
+             <a href="http://www.vik.bme.hu/en">
+              Faculty of Electrical Engineering and Informatics
+             </a> 
+          </div>
+        </div>
+        <div id="org-name-big-display" class="col-md-8 hidden-sm hidden-xs" style="color:#862633">
+          Department of Computer Science and Information Theory
+        </div>
+      </div>
+      <div id="org-name-small-display" class="col-sm-12 text-center hidden-md hidden-lg" style="color:#862633">
+        Department of Computer Science and Information Theory
+      </div>
+    </div>
+  </div>
+
+    <div class="navbar navbar-inverse">
+
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{url_prefix + '/'}}">{{site.brand}}</a>
+        </div>
+        <div class="navbar-collapse collapse">
+
+          <ul class="nav navbar-nav navbar-left">
+            {% block home %}
+            {% endblock %}
+            {% for item in site.reflinks['/'].content %}
+            {%   set context = '' %}
+            {%   if item.components|d and this.components[0] == item.components[0] %}
+            {%     set context = ' class="active"' %}
+            {%   endif %}
+            {%   if item.content|d and item.dropdown %}
+            <li{{context}} class="dropdown">
+              <a href="{{item.url}}" class="dropdown-toggle" data-toggle="dropdown">{{item.title}} <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                {% for subitem in item.content %}
+                <li><a href="{{subitem.url}}">{{subitem.title}}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+            {% else %}
+            <li{{context}}><a href="{{item.url}}">{{item.title}}</a></li>
+            {%   endif %}
+            {% endfor %}
+          </ul>
+        
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    {% block body %}
+    {% endblock %}
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/{{bootstrap}}/js/bootstrap.min.js"></script>
+    {% block body_addon %}
+    {% endblock %} 
+
+  </body>
+</html>
+

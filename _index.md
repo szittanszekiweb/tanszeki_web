@@ -6,7 +6,7 @@ content:
     - kutatas
     - munkatarsak
     - rolunk
-    - angolul
+    - same_in_english
 ---
 # Hírek
 

@@ -32,11 +32,15 @@ reflinks:
     hirek:
         url: /hirek
         title: Hírek archívuma        
-    angolul:
+    same_in_english:
         url: http://www.cs.bme.hu/eng
         title: Same in English
 
+ 
 
+    hungarian:
+        url: http://www.cs.bme.hu
+        title: Hungarian version
 
 # tobb helyen hasznalt
 kapcsolat_cim: Budapest, 1117, Magyar tudósok körútja 2.,  I épület, IB132
