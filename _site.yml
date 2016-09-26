@@ -31,10 +31,18 @@ reflinks:
         title: Tanszéki konferenciák     
     hirek:
         url: /hirek
-        title: Hírek archívuma        
+        title: Hírek archívuma     
     same_in_english:
-        url: http://www.cs.bme.hu/eng
-        title: Same in English
+        url: /english
+        title: Same in English      
+    same_in_hungarian:
+        url: /
+        title: Hungarian version
+
+
+    # same_in_english:
+    #     url: http://www.cs.bme.hu/eng
+    #     title: Same in English
 
  
 
