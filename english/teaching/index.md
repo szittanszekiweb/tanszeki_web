@@ -1,8 +1,9 @@
 ---
 title: Teaching 
-layout: index
+layout: index_eng
 dropdown: true
 content:
     - bsc
     - msc
+    - doktori
 ---

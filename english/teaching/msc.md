@@ -1,6 +1,6 @@
 ---
 title: MSC
-layout: simple_page 
+layout: simple_page_eng 
 pager: true 
 ---
 

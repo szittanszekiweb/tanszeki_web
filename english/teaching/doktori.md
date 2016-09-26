@@ -1,33 +1,35 @@
 ---
-title: Doktori és egyéb választható tárgyak
-layout: simple_page 
+title: PhD 
+layout: simple_page_eng 
 pager: true 
 ---
 
 
-Doktori tárgyak
-=================
+Courses for PhD students (all courses are in English)
+========================
 
-[Adatbányászati algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZD308/)
+[Advanced Datastructures and Techniques for Analysis of Algorithms](https://portal.vik.bme.hu/kepzes/targyak/VISZDV05/en/)
 
-[Algoritmikus kérdések a bioinformatikában](https://portal.vik.bme.hu/kepzes/targyak/VISZD303/)
+[Algorithmic Aspects of Bioinformatics](https://portal.vik.bme.hu/kepzes/targyak/VISZD303/)
 
-[A lineáris algebra numerikus módszerei](http://cs.bme.hu/~friedl/lanm/)
+[Algorithms in Geometry](http://www.renyi.hu/~geza/geoalg/)
 
-[Geometriai algoritmusok](http://www.renyi.hu/~geza/geoalg/)
+[Analysis of Matrices](http://cs.bme.hu/~friedl/matrix/)
 
-[Gráfok és információelmélet](https://portal.vik.bme.hu/kepzes/targyak/VIMAD056/)
+[Data Mining Algorithms](https://portal.vik.bme.hu/kepzes/targyak/VISZD308/)
 
-[Haladó adatszerkezetek és algoritmuselemzési technikák](http://www.cs.bme.hu/haladoadat/)
+[Graphs and Information Theory](https://portal.vik.bme.hu/kepzes/targyak/VIMAD056/)
 
-[Matematikai statisztika](https://portal.vik.bme.hu/kepzes/targyak/VISZD302/)
+[Introduction to the Theory of Portfolios and Derivatives](https://portal.vik.bme.hu/kepzes/targyak/VISZD307/)
 
-[Mátrixanalízis](http://cs.bme.hu/~friedl/matrix/)
+[Mathematical Statistics](https://portal.vik.bme.hu/kepzes/targyak/VISZD302/)
 
-[Portfólió- és opcióelméleti alapok](https://portal.vik.bme.hu/kepzes/targyak/VISZD307/)
+[Numerical methods of linear algebra](http://cs.bme.hu/~friedl/lanm/index-en.html)
 
 
-Választható tárgyak, szakkör
-===========================
 
-[ACM szakkör](http://cs.bme.hu/acm/) 
+
+
+
+
+
