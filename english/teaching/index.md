@@ -6,4 +6,5 @@ content:
     - bsc
     - msc
     - doktori
+    - temakiiras
 ---

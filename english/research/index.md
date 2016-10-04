@@ -5,5 +5,6 @@ dropdown: true
 content:
     - publikaciok
     - otka
+    - ../teaching/temakiiras
 ---
 

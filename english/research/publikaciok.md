@@ -25,7 +25,7 @@ Publications
 
 [Dr. Györfi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10000589): stochastic approximation, pattern classification, nonparametric density, regression and entropy estimation, prediction of time series, multiple access communication, source coding, empirical portfolio selection
 
-[Kabódi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10050846): quantum algorithms, quantum simulation
+[Kabódi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10050846): quantum algorithms, quantum simulation 
 
 [Dr. Katona Gyula Y.](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010571): 
 graph theory, hypergraphs, toughness, matchings, algorithms
@@ -58,11 +58,11 @@ graph theory, combinatorial optimisation, matroids, VLSI
 
 [Dr. Tóth Géza](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10001236): combinatorial geometry
 
-[Varga Kitti](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051898): graph theory
+[Varga Kitti](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051898): graph theory, graph toughness
 
 [Dr. Wiener Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10013051): combinatorics,  especially combinatorial search,  graph theory,  hypergraphs
 
-[Zlatniczki Ádám](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051897): 
+[Zlatniczki Ádám](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10051897): economical modelling, stochastic decision support, optimal investment strategies
 
 
 

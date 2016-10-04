@@ -4,5 +4,6 @@ layout: home_eng
 content:
     - teaching
     - research
+    - staff
     - same_in_hungarian
 ---

@@ -11,7 +11,8 @@ Optimalizációs módszerek a felhő számítástechnikában és kommunikációb
 Témavezető: Dr. Recski András
 ------------------------------
 
-Résztvevők: Babarczi Péter, Buza Krisztián Antal, Csehi Csongor György, Csizmadia Balázs, Friedl Katalin,  Gulyás András, Katona Gyula, Kiss Attila, Körösi Attila, Mann Zoltán Ádám, Pach Péter Pál, Rétvári Gábor, Schlotter Ildikó, Soltész Dániel, Szabó Péter, Szeszlér Dávid, Tapolcai János, Tóth Ágnes, Wiener Gábor
+Résztvevők: Babarczi Péter, Buza Krisztián Antal, Csehi Csongor György, Csizmadia Balázs, Friedl Katalin,  Gulyás András, Gyimóthi László, Hosszú Éva, Katona Gyula, Kabódi László, Kiss Attila, Körösi Attila, Mann Zoltán Ádám, Pach Péter Pál, Papp László, Pasic Alija, Rétvári Gábor, Schlotter Ildikó, Soltész Dániel, Szabó Péter, Szeszlér Dávid, Tapolcai János, Tóth Ágnes,  Varga Kitti, Vass Balázs, Wiener Gábor
+
 
 A jövőben, a felhasználói adatok kezelését döntően felhő alapú (cloud) rendszerekben fogják végezni. Ehhez nagyméretű adatokat kell tárolni, mozgatni és feldolgozni. Ehhez ú. n. adatközpontokat építenek, amelyek rengeteg számítógép összekötésével óriási számítási kapacitást és komoly kommunikációs infrastruktúrát képeznek. Ahhoz, hogy az adatközpontok a növekvő felhasználói igényeknek eleget tudjanak tenni, a tervezésnél két fontos tervezési irányelvet kell követni: a skálázható növekedést és energiahatékonyságot. A kutatási projekt során elsősorban az adatközpont kommunikációs hálózatának skálázható növekedését vizsgáljuk. Ehhez főként kombinatorikában kidolgozott gráf bővítési módszereket kutatunk azzal a céllal, hogy a jelenlegi eszközökből hatékonyabb adatközpontokat építsünk.
 
@@ -44,3 +45,9 @@ A fenti kombinatorikus optimalizálási módszerek alkalmazásával a fő célun
 
 
 Emellett remélhetőleg a felhasznált diszkrét matematikai eszközök elméletét is gazdagítani fogjuk új eredményekkel, így különösen NP-nehéz problémák polinom időben megoldható speciális eseteinek feltárásában. Ezek a felhő alapú számítástechnika mellett más matematikai területeken is alkalmazhatóak (ütemezési és szállítási problémák, logikai programozási feladatok, a stabil párosítások, közgazdasági alkalmazásai stb).
+
+[Zárójelentés (2016 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2016_sept_long_version.doc)
+
+[Jelentés(2015 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2015_sept_long_version.pdf)
+
+[Jelentés (2014 szeptember)](home/www. cs.bme.hu/eng/period_closing_report.pdf)

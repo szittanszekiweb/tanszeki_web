@@ -35,7 +35,7 @@ Informatikai tudományok
 
 [Véletlen bolyongás fraktál jellegű gráfokon](http://www.doktori.hu/index.php?menuid=195&tk_ID=6120) (Dr. Telcs András)
 
-[hipergráfok nyomai](http://www.doktori.hu/index.php?menuid=195&tk_ID=6122) (Dr. Wiener Gábor)
+[Hipergráfok nyomai](http://www.doktori.hu/index.php?menuid=195&tk_ID=6122) (Dr. Wiener Gábor)
 
 Villamosmérnöki tudományok
 ------------------------------

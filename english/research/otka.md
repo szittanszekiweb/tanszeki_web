@@ -11,7 +11,10 @@ Optimization Methods for Cloud Computing and Communications (OTKA project no. K1
 Head of the project: Dr. Recski András
 ------------------------------
 
-Participans: Péter Babarczi, Krisztián Antal Buza, Csongor György Csehi, Balázs Csizmadia, Katalin Friedl,  András Gulyás, Gyula Katona, Attila Kiss, Attila Körösi, Zoltán Ádám Mann, Péter Pál Pach, Gábor Rétvári, Ildikó Schlotter, Dániel Soltész, Péter Szabó, Dávid Szeszlér, János Tapolcai , Ágnes Tóth, Gábor Wiener
+Participans: Péter Babarczi, Krisztián Antal Buza, Csongor György Csehi, Balázs Csizmadia, Katalin Friedl,  András Gulyás, László Gyimóthi, Éva Hosszú, László Kabódi, Gyula Katona, Attila Kiss, Attila Körösi, Zoltán Ádám Mann, Péter Pál Pach, László  Papp, Alija Pasic, Gábor Rétvári, Ildikó Schlotter, Dániel Soltész, Péter Szabó, Dávid Szeszlér, János Tapolcai , Ágnes Tóth, Kitti Varga, Balázs Vass, Gábor Wiener
+
+
+
 
 In the near future cloud computing will become the most dominant operation model of the Internet, and will be responsible for computing, communication and storage of a huge portion of users digital data. Thus, data centers must provide high processing power and high communication rate in order to accommodate the even growing number of cloud users. In order to keep up with the growing number of computation request, data centers and the communication infrastructures need to satisfy two crucial properties: scalability and energy-efficiency. Rather than installing more and more servers (increasing network cost and energy consumption), our main goal is to address the above issues with combinatorial optimization methods to reach better efficiency on the existing infrastructure, or to design more efficient architectures based on the available devices.
 
@@ -43,7 +46,9 @@ Applying the above combinatorial optimization techniques we plan to obtain new r
 
 In addition, we expect to enrich the theory of the applied mathematical tools, like discovering polynomial solvable subcases of NP-hard problems. Besides, cloud computing and communications results can be applied in other branches of mathematics as well (scheduling and transportation problems, logic programming, applications of stable matching in economics etc.).
 
+[Period closing report (2016 September)](http://www.cs.bme.hu/eng/period_closing_report_2016_sept_long_version.doc)
+
 [Period closing report (2015 September)](http://www.cs.bme.hu/eng/period_closing_report_2015_sept_long_version.pdf)
 
-[Period closing report (2014 September)]()
+[Period closing report (2014 September)](home/www. cs.bme.hu/eng/period_closing_report.pdf)
 
