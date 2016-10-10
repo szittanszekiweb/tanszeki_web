@@ -5,5 +5,11 @@ content:
     - teaching
     - research
     - staff
+    - about_us
     - same_in_hungarian
 ---
+
+  <img src="../fenykepek/babak.png">
+
+  <img src="../fenykepek/epulet.jpg">
+
