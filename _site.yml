@@ -38,7 +38,9 @@ reflinks:
     same_in_hungarian:
         url: /
         title: Hungarian version
-
+    angol_info:
+        url: /english/angol_info.html
+        title: Information about our program        
 
     # same_in_english:
     #     url: http://www.cs.bme.hu/eng

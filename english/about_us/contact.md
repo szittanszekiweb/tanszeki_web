@@ -21,4 +21,6 @@ tel: {{site.kapcsolat_telefon}}
 
 fax: {{site.kapcsolat_fax}}
 
-email: [{{site.kapcsolat_email}}](mailto:{{site.kapcsolat_email}})
+email: [follow this link](../angol_info.html) 
+
+For information of degree programs in English, please go to [http://www.vik.bme.hu/en/education/](http://www.vik.bme.hu/en/education/)

@@ -10,8 +10,10 @@ in their applications in engineering, in economics and in the development of cut
 Our research is supported by the Hungarian National Research Fund. 
 
 
-Publications
+Publications 
 ------------
+
+(Please click on the names below for lists of publications)
 
 [Dr. Csákány Rita](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012964):  combinatorics, graph theory
 

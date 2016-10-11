@@ -19,7 +19,7 @@ Software Engineering
 
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 
-[Queueing Theory](https://portal.vik.bme.hu/kepzes/targyak/VISZM106/) (in Hungarian)
+[Queueing Theory](https://portal.vik.bme.hu/kepzes/targyak/VISZM106/) 
 
 [Very Large Databases](https://portal.vik.bme.hu/kepzes/targyak/VISZMA01/en/) (in Hungarian)
 
@@ -39,7 +39,7 @@ Business Information Systems
 Electrical Engineering
 ====================
 
-[Advanced Mathematics for Electrical Engineers - Combinatorial Optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA06/en/) (in Hungarian)
+[Advanced Mathematics for Electrical Engineers - Combinatorial Optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA06/en/) 
 
 
 

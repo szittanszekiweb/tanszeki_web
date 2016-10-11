@@ -5,4 +5,5 @@ dropdown: true
 content:
     - contact
     - profil
+    - angol_info
 ---
