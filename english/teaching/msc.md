@@ -48,7 +48,7 @@ Applied Mathematics
 
 [Algorithms and Complexity](https://portal.vik.bme.hu/kepzes/targyak/VISZM143/) (in Hungarian)
 
-[Combinatorial Optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA029/en/) 
+[Combinatorial Optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZM029) 
 
 [Economic and Financial Timeseries](https://portal.vik.bme.hu/kepzes/targyak/VISZM021/) (in Hungarian)
 

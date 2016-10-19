@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: People
 layout: page_eng 
 pager: true 
 ---
@@ -9,7 +9,7 @@ Head of department
 
 |               |               |
 | ------------- |:-------------:| 
-|[Dr. Katona Gyula](http://www.cs.bme.hu/~kiskat)<br> associate professor<br>IB 133/aa <br> tel: 463-2587<br>[email](mailto:kiskat@cs.bme.hu)  |  ![minipic](../fenykepek/katona.jpg =100x20)| 
+|[Dr. Katona Gyula](http://www.cs.bme.hu/~kiskat/enghomepage.html)<br> associate professor<br>IB 133/aa <br> tel: 463-2587<br>[email](mailto:kiskat@cs.bme.hu)  |  ![minipic](../fenykepek/katona.jpg =100x20)| 
 
 
 Full and part time members
@@ -17,16 +17,16 @@ Full and part time members
 
 |               |               |               |               | 
 | ------------- |---------------| ------------- |---------------|
-|[Dr. Csákány Rita](http://www.cs.bme.hu/~csakany)	<br> associate professor		<br>IB 137/a 	<br> tel: 463-3156<br>[email](mailto:csakany@cs.bme.hu)	|![minipic](../fenykepek/csakany.jpg =100x20)| [Csehi Csongor György](http://www.cs.bme.hu/~cscsgy)	<br> assistant lecturer <br>IE 2.17.3 	<br> tel: 463-3159<br>[email](mailto:cscsgy@cs.bme.hu)	|![minipic](../fenykepek/csehi.jpg =100x20)| 
-|[Dr. Csima Judit](http://www.cs.bme.hu/~csima)		<br> associate professor		<br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:csima@cs.bme.hu)  	|![minipic](../fenykepek/csima.jpg =100x20)  | [Dr. Fleiner Tamás](http://www.cs.bme.hu/~fleiner)		<br> associate professor 	<br>IB 137/b 	<br> tel: 463-3161<br>[email](mailto:fleiner@cs.bme.hu)	|![minipic](../fenykepek/fleiner.jpg =100x20)| 
-|[Dr. Friedl Katalin](http://www.cs.bme.hu/~friedl)	<br> associate professor		<br>IB 137/a 	<br> tel: 463-3156<br>[email](mailto:friedl@cs.bme.hu) 	|![minipic](../fenykepek/friedl.jpg =100x20)| [Dr. Györfi László](http://www.cs.bme.hu/~gyorfi)		<br> professor emeritus <br>IE 215 		<br> tel: 463-3146<br>[email](mailto:gyorfi@cs.bme.hu)	| ![minipic](../fenykepek/gyorfi.jpg =100x20) |		
-|Kaszanitzky Viktória  											<br> assistant professor <br>IE 2.17.2 	<br> tel: 463-3158<br>[email](mailto:kaszanitzky@cs.bme.hu) |![minipic](../fenykepek/kaszanitzky.jpg =100x20)| [Dr. Ketskeméty László](http://www.cs.bme.hu/~kela)<br> associate professor		<br>IE 2.16.2 	<br> tel: 463-2897<br>[email](mailto:kela@cs.bme.hu)  	|![minipic](../fenykepek/ketskemety.jpg =100x20)| 
-|[Dr. Pach Péter Pál ](http://www.cs.bme.hu/~ppp)		<br> assistant lecturer <br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:ppp@cs.bme.hu)		| ![minipic](../fenykepek/pach.jpg =100x20)| [Dr. Pintér Márta](http://www.cs.bme.hu/~marti)	<br> associate professor		<br>IE 2.17.2 	<br> tel: 463-3158<br>[email](mailto:marti@cs.bme.hu) 	|![minipic](../fenykepek/pinter.jpg =100x20)							|				
-| [Dr. Recski András](http://www.cs.bme.hu/~recski)		<br> egyetemi tanár 	<br>IE 214 		<br> tel: 463-2984<br>[email](mailto:recski@cs.bme.hu)	|![minipic](../fenykepek/recski.jpg =100x20)| [Dr. Sali Attila](http://www.cs.bme.hu/~sali)		<br> associate professor		<br>IB 137/b	<br> tel: 463-3161<br>[email](mailto:sali@renyi.hu)   	|![minipic](../fenykepek/sali.jpg =100x20)	| 
-| [Dr. Schlotter Ildikó](http://www.cs.bme.hu/~ildi)		<br> associate professor	<br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:ildi@cs.bme.hu)	| 									   |[Dr. Simonyi Gábor](http://www.cs.bme.hu/~simonyi)	<br> egyetemi tanár			<br>IE 2.17.3	<br> tel: 463-3159<br>[email](mailto:simonyi@renyi.hu)  |![minipic](../fenykepek/simonyi.jpg =100x20)| 
-|Szabó Réka 											<br> assistant lecturer <br>IB 136/a 	<br> tel: 463-3162<br>[email](mailto:szabo@cs.bme.hu)	|										   | [Dr. Szeredi Péter](http://www.cs.bme.hu/~szeredi)	<br> nyug. associate professor	<br>IE.2.16.3	<br> tel: 463-2986<br>[email](mailto:szeredi@cs.bme.hu) |	![minipic](../fenykepek/szeredi.jpg =100x20)| 
-|[Dr. Szeszlér Dávid](http://www.cs.bme.hu/~szeszler) 	<br> associate professor	<br>IB.136A		<br> tel: 463-3162<br>[email](mailto:szeszler@cs.bme.hu)|![minipic](../fenykepek/szeszler.jpg =100x20)| [Dr. Telcs András](http://www.cs.bme.hu/~telcs)	<br> associate professor		<br>IE.2.16.2	<br> tel: 463-2897<br>[email](mailto:telcs@cs.bme.hu)  	|![minipic](../fenykepek/telcs.jpg =100x20)  | 
-|[Dr. Tóth Géza](http://www.cs.bme.hu/~geza)			<br> associate professor	<br>IB 137/b	<br> tel: 463-3161<br>[email](mailto:geza@renyi.hu)		|![minipic](../fenykepek/toth.jpg =100x20)|[Dr. Wiener Gábor](http://www.cs.bme.hu/~wiener)	<br> associate professor		<br>IB.136A		<br> tel: 463-3162<br>[email](mailto:wiener@cs.bme.hu) 	|![minipic](../fenykepek/wiener.jpg =100x20) |
+|[Dr. Csákány Rita](http://www.cs.bme.hu/~csakany/indexen)	<br> associate professor		<br>IB 137/a 	<br> tel: 463-3156<br>[email](mailto:csakany@cs.bme.hu)	|![minipic](../fenykepek/csakany.jpg =100x20)| [Csehi Csongor György](http://www.cs.bme.hu/~cscsgy/indexeng)	<br> assistant lecturer <br>IE 2.17.3 	<br> tel: 463-3159<br>[email](mailto:cscsgy@cs.bme.hu)	|![minipic](../fenykepek/csehi.jpg =100x20)| 
+|[Dr. Csima Judit](http://www.cs.bme.hu/~csima/indexen.html)		<br> associate professor		<br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:csima@cs.bme.hu)  	|![minipic](../fenykepek/csima.jpg =100x20)  | [Dr. Fleiner Tamás](http://www.cs.bme.hu/~fleiner/indexeng.html)		<br> associate professor 	<br>IB 137/b 	<br> tel: 463-3161<br>[email](mailto:fleiner@cs.bme.hu)	|![minipic](../fenykepek/fleiner.jpg =100x20)| 
+|[Dr. Friedl Katalin](http://www.cs.bme.hu/~friedl/indexen.html)	<br> associate professor		<br>IB 137/a 	<br> tel: 463-3156<br>[email](mailto:friedl@cs.bme.hu) 	|![minipic](../fenykepek/friedl.jpg =100x20)| [Dr. Györfi László](http://www.cs.bme.hu/~gyorfi/indexen.html)		<br> professor emeritus <br>IE 215 		<br> tel: 463-3146<br>[email](mailto:gyorfi@cs.bme.hu)	| ![minipic](../fenykepek/gyorfi.jpg =100x20) |		
+|Kaszanitzky Viktória  											<br> assistant professor <br>IE 2.17.2 	<br> tel: 463-3158<br>[email](mailto:kaszanitzky@cs.bme.hu) |![minipic](../fenykepek/kaszanitzky.jpg =100x20)| [Dr. Ketskeméty László](http://www.cs.bme.hu/~kela/indeng.html)<br> associate professor		<br>IE 2.16.2 	<br> tel: 463-2897<br>[email](mailto:kela@cs.bme.hu)  	|![minipic](../fenykepek/ketskemety.jpg =100x20)| 
+|[Dr. Pach Péter Pál ](http://www.cs.bme.hu/~ppp/indexen.html)		<br> assistant lecturer <br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:ppp@cs.bme.hu)		| ![minipic](../fenykepek/pach.jpg =100x20)| [Dr. Pintér Márta](http://www.cs.bme.hu/~marti/indexen)	<br> associate professor		<br>IE 2.17.2 	<br> tel: 463-3158<br>[email](mailto:marti@cs.bme.hu) 	|![minipic](../fenykepek/pinter.jpg =100x20)							|				
+| [Dr. Recski András](http://www.cs.bme.hu/~recski)		<br> professor	<br>IE 214 		<br> tel: 463-2984<br>[email](mailto:recski@cs.bme.hu)	|![minipic](../fenykepek/recski.jpg =100x20)| [Dr. Sali Attila](http://www.cs.bme.hu/~sali)		<br> associate professor		<br>IB 137/b	<br> tel: 463-3161<br>[email](mailto:sali@renyi.hu)   	|![minipic](../fenykepek/sali.jpg =100x20)	| 
+| [Dr. Schlotter Ildikó](http://www.cs.bme.hu/~ildi)		<br> associate professor	<br>IB 136/b 	<br> tel: 463-2987<br>[email](mailto:ildi@cs.bme.hu)	| 									   |[Dr. Simonyi Gábor](http://www.cs.bme.hu/~simonyi)	<br> professor			<br>IE 2.17.3	<br> tel: 463-3159<br>[email](mailto:simonyi@renyi.hu)  |![minipic](../fenykepek/simonyi.jpg =100x20)| 
+|Szabó Réka 											<br> assistant lecturer <br>IB 136/a 	<br> tel: 463-3162<br>[email](mailto:szabo@cs.bme.hu)	|										   | [Dr. Szeredi Péter](http://www.cs.bme.hu/~szeredi/english/index.html)	<br>  associate professor	<br>IE.2.16.3	<br> tel: 463-2986<br>[email](mailto:szeredi@cs.bme.hu) |	![minipic](../fenykepek/szeredi.jpg =100x20)| 
+|[Dr. Szeszlér Dávid](http://www.cs.bme.hu/~szeszler/index_eng.html) 	<br> associate professor	<br>IB.136A		<br> tel: 463-3162<br>[email](mailto:szeszler@cs.bme.hu)|![minipic](../fenykepek/szeszler.jpg =100x20)| [Dr. Telcs András](http://www.cs.bme.hu/~telcs)	<br> associate professor		<br>IE.2.16.2	<br> tel: 463-2897<br>[email](mailto:telcs@cs.bme.hu)  	|![minipic](../fenykepek/telcs.jpg =100x20)  | 
+|[Dr. Tóth Géza](http://www.cs.bme.hu/~geza/english.html)			<br> associate professor	<br>IB 137/b	<br> tel: 463-3161<br>[email](mailto:geza@renyi.hu)		|![minipic](../fenykepek/toth.jpg =100x20)|[Dr. Wiener Gábor](http://www.cs.bme.hu/~wiener/indexeng.html)	<br> associate professor		<br>IB.136A		<br> tel: 463-3162<br>[email](mailto:wiener@cs.bme.hu) 	|![minipic](../fenykepek/wiener.jpg =100x20) |
 
 
 PhD students
@@ -35,7 +35,7 @@ PhD students
 |               |               |               |               |
 | ------------- |---------------| ------------- |---------------| 
 |Kabódi László  <br> IB 137/a  <br> 463-3156 <br> [email](mailto:kabodil@gmail.com) | ![minipic](../fenykepek/kabodi.jpg =100x20) | Papp László	<br> IE.2.17.3 <br>	463-3159 <br> [email](mailto:lazsa@gmail.com)	| ![minipic](../fenykepek/papp.jpg =100x20)| 
-|Varga Kitti 	<br> IE.2.17.2 <br>	463-3158 <br> [email](mailto:vkitti@cs.bme.hu)	| ![minipic](../fenykepek/varga.jpg =100x20)  | [Zlatniczki Ádám](http://cs.bme.hu/~adam.zlatniczki/)  <br> IE.2.17.2 <br>	463-3158 <br>[email](mailto:adam.zlatniczki@cs.bme.hu)	| ![minipic](../fenykepek/zlatniczki.jpg =100x20)| | |
+|Varga Kitti 	<br> IE.2.17.2 <br>	463-3158 <br> [email](mailto:vkitti@cs.bme.hu)	| ![minipic](../fenykepek/varga.jpg =100x20)  | [Zlatniczki Ádám](http://cs.bme.hu/~adam.zlatniczki/index.php?page=home&lang=en)  <br> IE.2.17.2 <br>	463-3158 <br>[email](mailto:adam.zlatniczki@cs.bme.hu)	| ![minipic](../fenykepek/zlatniczki.jpg =100x20)| | |
 
 Lecturers
 ==================

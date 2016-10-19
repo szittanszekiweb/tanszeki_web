@@ -7,7 +7,7 @@ pager: true
 If you are interested in one of the topics below, please contact the professor (contact information can be found in the link of the topic).
 
 
-Phd thesis topic proposals
+Phd thesis topic proposals (in Hungarian)
 ==========================
 
 

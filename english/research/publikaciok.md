@@ -25,14 +25,14 @@ Publications
 
 [Dr. Friedl Katalin](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010334): theory of algorithms and complexity, quantum algorithms
 
-[Dr. Györfi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10000589): stochastic approximation, pattern classification, nonparametric density, regression and entropy estimation, prediction of time series, multiple access communication, source coding, empirical portfolio selection
+[Dr. Györfi László](https://scholar.google.hu/citations?user=PmtLQ6cAAAAJ&hl=en&citsig=AMstHGRnS9287kdEPNqVqhx6RvdhvmhRqg): stochastic approximation, pattern classification, nonparametric density, regression and entropy estimation, prediction of time series, multiple access communication, source coding, empirical portfolio selection
 
 [Kabódi László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10050846): quantum algorithms, quantum simulation 
 
 [Dr. Katona Gyula Y.](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10010571): 
 graph theory, hypergraphs, toughness, matchings, algorithms
 
-[Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138): graph theory, matroids
+[Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138): graph theory, matroids, combinatorial rigidity
 
 [Dr. Ketskeméty László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012962):
 mathematical statistics, SPSS, probability theory
@@ -50,13 +50,14 @@ graph theory, combinatorial optimisation, matroids, VLSI
 
 [Dr. Schlotter Ildikó](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10041230): parametric complexity, theory of algorithms and complexity
 
-[Dr. Simonyi Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10006090): graph theory, information theory, colourings of graphs, graph capacities
+[Dr. Simonyi Gábor](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10006090): 
+graph theory, extremal combinatorics, information theory
 
 [Dr. Szeredi Péter](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10001667): declarative programming, logic programming, constraints, Prolog,semantic technologies: semantic web, semantic integration,parallelism, parallel logic programming, implementation of programming languages
 
 [Dr. Szeszlér Dávid](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012970): graph theory, combinatorial optimisation, VLSI
 
-[Dr. Telcs András](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10005127): random walks
+[Dr. Telcs András](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10005127): random walks, social networks, statistics for scientometrics, economy and higer education evaluation, neuroscience
 
 [Dr. Tóth Géza](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10001236): combinatorial geometry
 
