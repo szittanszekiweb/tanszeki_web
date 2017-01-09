@@ -9,7 +9,5 @@ content:
     - same_in_hungarian
 ---
 
-  <img src="../fenykepek/babak.png">
-
-  <img src="../fenykepek/epulet.jpg">
+  <img src="../fenykepek/szit-front-pic.jpg" height="860">
 
