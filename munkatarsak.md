@@ -42,18 +42,15 @@ Külső munkatársak
 
 |               |               |
 | ------------- |---------------| 
-| Balázs Barbara	 	 	<br> babraat@cs.bme.hu | Bérczi Kristóf	 	 	 	<br> berczikr@freemail.hu |
-| Buzga Viktor	 	 	 	<br> vik.barca@gmail.com |  [Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)	 	 	 	<br> daroczyb@sztaki.hu |
-| Drótos Márton	 	 	 	<br>marton.drotos@sztaki.hu | Kápolnai Richárd	 	 	<br> richard@iit.bme.hu | 
-| Kiss Gergely	 	 	 	    <br> kisss@cs.elte.hu | Kőrösi Attila	 	 	 	<br> korosi@tmit.bme.hu | 
-| Mester Beáta	 	 	 	    <br>  banan.bea@citromail.hu | Mihálka Éva Zsuzsanna	 	<br> mihalka@cs.bme.hu | 
-| Nagy Péter	 	 	 	    <br> peternagy0619@gmail.com | Ottucsák György	        <br> oti@cs.bme.hu | 
-| Pácsonyi Imre	 	 	 	    <br> pacsonyii@cs.bme.hu |  Patkós Balázs	 	 	 	<br> patkos@renyi.hu | 
-| Peregi Tamás	 	 	 	    <br> petamas@gmail.com | Richlik György	 		<br> IE.2.16.2	<br> 463-2897	<br> richlik@cs.bme.hu |  
-| Sándor Zoltán	 	 	 	<br> sandor.zoltan.14@gmail.com | Sebők Márton	 	 	 	<br> sebokmarton@cs.bme.hu | 
-| Simon Balázs	 	 	 	<br> sbalazs03@freemail.hu |  Szatmári Zoltán	  	 	<br> zee@cs.bme.hu | 
-| Tassy Gergely	 	 	 	<br> tassyg@gmail.com | Titkos Tamás	 	 	 	<br> titkostamas@gmail.com | 
-| Vidor Sára	 	 	 	<br> vidor.sari@gmail.com |
+| Ádám Kinga <br> elam.male1994 at gmail.com | Balázs Barbara	 	 	<br> babraat at cs.bme.hu |
+| Bérczi Kristóf	 	 	 	<br> berczikr at freemail.hu | Farkas Rebeka	<br> rebus.detenyleg at gmail.com |
+| [Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)	 	 	 	<br> daroczyb at sztaki.hu | Drótos Márton	 	 	 	<br>marton.drotos at sztaki.hu|
+| Kiss Attila <br> kissattila at cs.bme.hu | Kőrösi Attila	 	 	 	<br> korosi at tmit.bme.hu  |
+| Marussy Kristóf			 <br> kris7topher at gmail.com | Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu |
+| Nemkin Viktória	<br> viktoria.nemkin at gmail.com | Nguyen Hai <br> nthaitrx at gmail.com |
+| Ottucsák György <br> oti at cs.bme.hu | Palincza Richárd <br> richard.palincza at gmail.com |
+| Richlik György	 		<br> IE.2.16.2	<br> 463-2897	<br> richlik at cs.bme.hu | Sári András Lajos <br> ocsi at infornax.hu |
+| Vizer Máté <br>  vizermate at gmail.com | |
 
 Adminisztráció, rendszergazdák
 ==============================
