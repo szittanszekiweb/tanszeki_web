@@ -42,15 +42,15 @@ Külső munkatársak
 
 |               |               |
 | ------------- |---------------| 
-| Ádám Kinga <br> elam.male1994 at gmail.com | Balázs Barbara	 	 	<br> babraat at cs.bme.hu |
+| Ádám Kinga <br> aakinga at cs.bme.hu | Balázs Barbara	 	 	<br> babraat at cs.bme.hu |
 | Bérczi Kristóf	 	 	 	<br> berczikr at freemail.hu | Farkas Rebeka	<br> rebus.detenyleg at gmail.com |
 | [Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)	 	 	 	<br> daroczyb at sztaki.hu | Drótos Márton	 	 	 	<br>marton.drotos at sztaki.hu|
 | Kiss Attila <br> kissattila at cs.bme.hu | Kőrösi Attila	 	 	 	<br> korosi at tmit.bme.hu  |
 | Marussy Kristóf			 <br> kris7topher at gmail.com | Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu |
-| Nemkin Viktória	<br> viktoria.nemkin at gmail.com | Nguyen Hai <br> nthaitrx at gmail.com |
+| Nemkin Viktória	<br> viktoria.nemkin at cs.bme.hu  | Nguyen Hai <br> nthaitrx at gmail.com |
 | Ottucsák György <br> oti at cs.bme.hu | Palincza Richárd <br> richard.palincza at gmail.com |
 | Richlik György	 		<br> IE.2.16.2	<br> 463-2897	<br> richlik at cs.bme.hu | Sári András Lajos <br> ocsi at infornax.hu |
-| Vizer Máté <br>  vizermate at gmail.com | |
+| Vizer Máté <br>  mmvizer at gmail.com | |
 
 Adminisztráció, rendszergazdák
 ==============================
