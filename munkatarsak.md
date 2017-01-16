@@ -43,7 +43,7 @@ Külső munkatársak
 |               |               |
 | ------------- |---------------| 
 | Ádám Kinga <br> aakinga at cs.bme.hu | Balázs Barbara	 	 	<br> babraat at cs.bme.hu |
-| Bérczi Kristóf	 	 	 	<br> berczikr at freemail.hu | Farkas Rebeka	<br> rebus.detenyleg at gmail.com |
+| Bérczi Kristóf	 	 	 	<br> berkri at cs.elte.hu | Farkas Rebeka	<br> rebus.detenyleg at gmail.com |
 | [Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)	 	 	 	<br> daroczyb at sztaki.hu | Drótos Márton	 	 	 	<br>marton.drotos at sztaki.hu|
 | Kiss Attila <br> kissattila at cs.bme.hu | Kőrösi Attila	 	 	 	<br> korosi at tmit.bme.hu  |
 | Marussy Kristóf			 <br> kris7topher at gmail.com | Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu |
