@@ -75,6 +75,8 @@ dr. Csima Judit
 * [Elosztott maximális klikk-kereső algoritmusok skálázhatósága](http://cs.bme.hu/dok/csima_katona_1.html)
 * [Hasonlóság-alapú gráfmodellezés](http://cs.bme.hu/dok/csima_katona_2.html)
 * [Mély tanulás nagy gráfokon](http://cs.bme.hu/dok/csima_katona_3.html)
+* [Angol nyelvet értő mesterséges intelligencia fejlesztése Python nyelven](http://cs.bme.hu/dok/csima2.docx)
+* [Algoritmikus végrehajtási stratégiák vizsgálata elektronikus kereskedési platformokon](http://cs.bme.hu/dok/csima3.docx)
 * [DNS alapú kiszámítás](http://cs.bme.hu/dok/csima.html)
 
 dr. Fleiner Tamás
@@ -94,6 +96,8 @@ dr. Katona Gyula Y.
 * [Elosztott maximális klikk-kereső algoritmusok skálázhatósága](http://cs.bme.hu/dok/csima_katona_1.html)
 * [Hasonlóság-alapú gráfmodellezés](http://cs.bme.hu/dok/csima_katona_2.html)
 * [Mély tanulás nagy gráfokon](http://cs.bme.hu/dok/csima_katona_3.html)
+* [Végeselemes megoldó részletének kidolgozása C++14-ben](http://cs.bme.hu/dok/katona6.docx)
+* [Tematikus, strukturált, nyomtatott oldalak szövegének felismerése Javában](http://cs.bme.hu/dok/katona7.docx)
 
 
 dr. Ketskeméty László
@@ -104,6 +108,10 @@ dr. Ketskeméty László
 * [Tanuló algoritmusok alkalmazása az ügyfélszolgálatra betérő ügyfél várható várakozási idejének becslésére algoritmusok skálázhatósága](http://www.cs.bme.hu/kela4) (szakmai gyakorlat)
 * [Tanuló algoritmusok alkalmazása az ügyfélszolgálati  ügyintézési folyamat irányítására ](http://www.cs.bme.hu/kela5) (szakmai gyakorlat)
 * [Funkcióblokkok tesztelés célú grafikus tervezése és futtatása](http://www.cs.bme.hu/kela6) (szakmai gyakorlat)
+
+Papp László
+
+ * [Gráfok additív kromatikus száma](http://www.cs.bme.hu/dok/papp1.docx)
 
 dr. Pintér Márta
 
