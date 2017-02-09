@@ -7,7 +7,7 @@ pager: true
 Software Engineering
 =========================
 
-[Data Mining Laboratory](https://portal.vik.bme.hu/kepzes/targyak/VISZA384/) (in Hungarian)
+[Data Analysis](https://portal.vik.bme.hu/kepzes/targyak/VISZAC00/en/) (in Hungarian)
 
 [Declarative Programming](http://dp.iit.bme.hu/) (in Hungarian)
 

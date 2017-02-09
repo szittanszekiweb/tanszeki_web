@@ -7,7 +7,7 @@ pager: true
 Műszaki informatikus szak
 =========================
 
-[Adatbányászat labor](https://portal.vik.bme.hu/kepzes/targyak/VISZA384/)
+[Adatelemzés](https://portal.vik.bme.hu/kepzes/targyak/VISZAC00)
 
 [Algoritmuselmélet](http://www.cs.bme.hu/algel)
 
