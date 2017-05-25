@@ -58,5 +58,5 @@ Adminisztráció, rendszergazdák
 |               |               |                |               |
 | ------------- |---------------|  ------------- |---------------| 
 |Czenkiné Boltizár Katalin	 	<br> gazdasági ügyintéző <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:czenki@cs.bme.hu) |![minipic](./fenykepek/czneki_kata.jpg =100x20)| Magyarné Boltizár Ildikó	 	<br> ügyvivő szakértő <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:boltizar@cs.bme.hu) | ![minipic](./fenykepek/boltizar.jpg =100x20)|
-|Vas Lászlóné	 	<br> hivatalsegéd <br> IB.132 <br>	tel: 463-2585 | ![minipic](./fenykepek/marika.jpg =100x20) | | |
+|Récsányiné Simon Mónika	 	<br> gazdasági ügyintéző <br> IB.133B <br>	tel: 463-2585	<br> [email](mailto:recsanyine@cs.bme.hu) |![minipic](./fenykepek/recsanyine.jpg =100x20)|Vas Lászlóné	 	<br> hivatalsegéd <br> IB.132 <br>	tel: 463-2585 | ![minipic](./fenykepek/marika.jpg =100x20) | 
 |Bornemissza Péter	 	<br> rendszergazda <br> IE.504 <br>	tel: 30/otkilencvenegy-2693	<br> [email](mailto:bornemissza.peter@cs.bme.hu) | |Molnár Péter	 	<br> rendszergazda<br> IB.135  <br>	tel: 30/nyolcnegyvenegy-2320	<br> [email](mailto:mpeter@cs.bme.hu) | |
