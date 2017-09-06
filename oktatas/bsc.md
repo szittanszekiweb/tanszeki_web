@@ -29,9 +29,12 @@ Villamosmérnök szak
 Matematikus szak
 ================
 
+[Adatbáziskezelés](http://www.cs.bme.hu/adatb)
+
 [Kombinatorika és gráfelmélet 1.](http://www.renyi.hu/~geza/kombi/)
 
 [Kombinatorika és gráfelmélet 2.](http://www.renyi.hu/~geza/kombi2/)
+
 
 Egészségügyi szervező szak
 ==========================
