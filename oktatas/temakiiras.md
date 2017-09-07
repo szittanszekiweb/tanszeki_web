@@ -89,10 +89,10 @@ dr. Friedl Katalin
 
 dr. Katona Gyula Y.
 
-* [Gráfok robusztussága](http://www.cs.bme.hu/katona1)
-* [Hálózati folyamos feladatok automatizált előállítása](http://www.cs.bme.hu/katona2)
-* [Ko-lokációs probléma](http://www.cs.bme.hu/katona5)
-* [Szociális hálók  meglévő adatainak felskálázása](http://www.cs.bme.hu/katona4)
+* [Gráfok robusztussága](http://www.cs.bme.hu/dok/katona1.html)
+* [Hálózati folyamos feladatok automatizált előállítása](http://www.cs.bme.hu/dok/katona2.html)
+* [Ko-lokációs probléma](http://www.cs.bme.hu/dok/katona5.html)
+* [Szociális hálók  meglévő adatainak felskálázása](http://www.cs.bme.hu/dok/katona4.html)
 * [Elosztott maximális klikk-kereső algoritmusok skálázhatósága](http://cs.bme.hu/dok/csima_katona_1.html)
 * [Hasonlóság-alapú gráfmodellezés](http://cs.bme.hu/dok/csima_katona_2.html)
 * [Mély tanulás nagy gráfokon](http://cs.bme.hu/dok/csima_katona_3.html)
@@ -102,12 +102,12 @@ dr. Katona Gyula Y.
 
 dr. Ketskeméty László
 
-* [A legközelebbi társ módszer komplexitási problémái](http://www.cs.bme.hu/kelatema1)
-* [Statisztikai kísérlettervezés](http://www.cs.bme.hu/kelatema2)
-* [Forex tőzsdeérték alapján a valuta érték megváltozását előrejelző szoftver készítése](http://www.cs.bme.hu/kelatema3)
-* [Tanuló algoritmusok alkalmazása az ügyfélszolgálatra betérő ügyfél várható várakozási idejének becslésére algoritmusok skálázhatósága](http://www.cs.bme.hu/kela4) (szakmai gyakorlat)
-* [Tanuló algoritmusok alkalmazása az ügyfélszolgálati  ügyintézési folyamat irányítására ](http://www.cs.bme.hu/kela5) (szakmai gyakorlat)
-* [Funkcióblokkok tesztelés célú grafikus tervezése és futtatása](http://www.cs.bme.hu/kela6) (szakmai gyakorlat)
+* [A legközelebbi társ módszer komplexitási problémái](http://www.cs.bme.hu/dok/kelatema1.htm)
+* [Statisztikai kísérlettervezés](http://www.cs.bme.hu/dok/kelatema2.html)
+* [Forex tőzsdeérték alapján a valuta érték megváltozását előrejelző szoftver készítése](http://www.cs.bme.hu/dok/kelatema3.html)
+* [Tanuló algoritmusok alkalmazása az ügyfélszolgálatra betérő ügyfél várható várakozási idejének becslésére algoritmusok skálázhatósága](http://www.cs.bme.hu/dok/kela4.html) (szakmai gyakorlat)
+* [Tanuló algoritmusok alkalmazása az ügyfélszolgálati  ügyintézési folyamat irányítására ](http://www.cs.bme.hu/dok/kela5.html) (szakmai gyakorlat)
+* [Funkcióblokkok tesztelés célú grafikus tervezése és futtatása](http://www.cs.bme.hu/dok/kela6.html) (szakmai gyakorlat)
 
 Papp László
 
