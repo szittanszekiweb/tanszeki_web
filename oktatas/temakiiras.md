@@ -17,6 +17,8 @@ Ajánljuk továbbá, hogy (lehetőleg a jelentkezés előtt több hónappal) sze
 Informatikai tudományok
 ---------------------------------
 
+[Statisztikus gépi tanulás](http://www.cs.bme.hu/dok/CsBCs_Phd.pdf) (Dr. Csáji Balázs Csanád)
+
 [Stabil párosítások és alkalmazásaik](http://www.doktori.hu/index.php?menuid=195&tk_ID=6112) (Dr. Fleiner Tamás)
 
 [Hatékony algoritmusok](http://www.doktori.hu/index.php?menuid=195&tk_ID=47725) (Dr. Friedl Katalin)
@@ -63,6 +65,14 @@ dr. Buza Krisztián
 * [Gesztikulációk és jelbeszédi jelek felismerése](http://www.cs.bme.hu/~buza/edu/projects/)
 * [Idősorok semi-supervised osztályozása, hibák tovaterjedésének vizsgálata](http://www.cs.bme.hu/~buza/edu/projects/)
 * [Transfer learning](http://www.cs.bme.hu/~buza/edu/projects/)
+
+dr. Csáji Balázs Csanád
+
+* [Véletlenített adaptív algoritmusok](http://www.cs.bme.hu/dok/CsBCs_1.pdf)
+* [Regressziós modellek bizonytalansága](http://www.cs.bme.hu/dok/CsBCs_2.pdf)
+* [Valószínűleg közelítőleg helyes (PAC) tabulás](http://www.cs.bme.hu/dok/CsBCs_3.pdf)
+* [Megerősítéses tanulás](http://www.cs.bme.hu/dok/CsBCs_4.pdf)
+
 
 dr. Csákány Rita
 
