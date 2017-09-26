@@ -15,7 +15,7 @@ Software Engineering
 
 [Information Theory](https://portal.vik.bme.hu/kepzes/targyak/VISZM101/)
 
-[Languages and Automata](https://portal.vik.bme.hu/kepzes/targyak/VISZM104/en/)
+[Languages and Automata](https://www.cs.bme.hu/~friedl/la)
 
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 

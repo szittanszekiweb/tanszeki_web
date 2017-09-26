@@ -46,6 +46,8 @@ Applying the above combinatorial optimization techniques we plan to obtain new r
 
 In addition, we expect to enrich the theory of the applied mathematical tools, like discovering polynomial solvable subcases of NP-hard problems. Besides, cloud computing and communications results can be applied in other branches of mathematics as well (scheduling and transportation problems, logic programming, applications of stable matching in economics etc.).
 
+[Period closing report (2017 September)](http://www.cs.bme.hu/eng/period_closing_report_2017_sept_long_version.doc)
+
 [Period closing report (2016 September)](http://www.cs.bme.hu/eng/period_closing_report_2016_sept_long_version.doc)
 
 [Period closing report (2015 September)](http://www.cs.bme.hu/eng/period_closing_report_2015_sept_long_version.pdf)

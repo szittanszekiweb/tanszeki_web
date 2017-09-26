@@ -25,6 +25,9 @@ Angol nyelvű képzés
 
 [Introduction to Computer Science I.](http://cs.bme.hu/bsz1-english)
 
+[Languages and Automata](https://www.cs.bme.hu/~friedl/la)
+
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 
 [Theory of Algorithms](http://cs.bme.hu/thalg/)
+

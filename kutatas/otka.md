@@ -46,7 +46,9 @@ A fenti kombinatorikus optimalizálási módszerek alkalmazásával a fő célun
 
 Emellett remélhetőleg a felhasznált diszkrét matematikai eszközök elméletét is gazdagítani fogjuk új eredményekkel, így különösen NP-nehéz problémák polinom időben megoldható speciális eseteinek feltárásában. Ezek a felhő alapú számítástechnika mellett más matematikai területeken is alkalmazhatóak (ütemezési és szállítási problémák, logikai programozási feladatok, a stabil párosítások, közgazdasági alkalmazásai stb).
 
-[Zárójelentés (2016 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2016_sept_long_version.doc)
+[Jelentés (2017 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2017_sept_long_version.doc)
+
+[Jelentés (2016 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2016_sept_long_version.doc)
 
 [Jelentés(2015 szeptember)](http://www.cs.bme.hu/eng/period_closing_report_2015_sept_long_version.pdf)
 
