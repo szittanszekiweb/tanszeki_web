@@ -115,9 +115,6 @@ dr. Ketskeméty László
 * [A legközelebbi társ módszer komplexitási problémái](http://www.cs.bme.hu/dok/kelatema1.htm)
 * [Statisztikai kísérlettervezés](http://www.cs.bme.hu/dok/kelatema2.html)
 * [Forex tőzsdeérték alapján a valuta érték megváltozását előrejelző szoftver készítése](http://www.cs.bme.hu/dok/kelatema3.html)
-* [Tanuló algoritmusok alkalmazása az ügyfélszolgálatra betérő ügyfél várható várakozási idejének becslésére algoritmusok skálázhatósága](http://www.cs.bme.hu/dok/kela4.html) (szakmai gyakorlat)
-* [Tanuló algoritmusok alkalmazása az ügyfélszolgálati  ügyintézési folyamat irányítására ](http://www.cs.bme.hu/dok/kela5.html) (szakmai gyakorlat)
-* [Funkcióblokkok tesztelés célú grafikus tervezése és futtatása](http://www.cs.bme.hu/dok/kela6.html) (szakmai gyakorlat)
 
 Papp László
 

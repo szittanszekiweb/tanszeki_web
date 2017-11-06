@@ -9,5 +9,6 @@ content:
     - doktori
     - nem_magyar
     - temakiiras
+    - szakmai
     - tehetseg
 ---
