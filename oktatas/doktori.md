@@ -26,6 +26,7 @@ Doktori tárgyak
 
 [Portfólió- és opcióelméleti alapok](https://portal.vik.bme.hu/kepzes/targyak/VISZD307/)
 
+[Sztochasztikus modellek és adaptív algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZDV06/)
 
 Választható tárgyak, szakkör
 ===========================

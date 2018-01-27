@@ -31,7 +31,9 @@ Gazdaságinformatikus szak
 
 [Matematikai statisztika](http://www.szit.bme.hu/~kela/ind7.html)
 
-[Pénzügyi matematika alapjai](https://portal.vik.bme.hu/kepzes/targyak/VISZM186/)
+[Pénzügyi befektetések tervezése](https://portal.vik.bme.hu/kepzes/targyak/GT35M404/)
+
+[Sztochasztikus modellek és adaptív algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZDV06/)
 
 
 Villamosmérnök szak
@@ -47,6 +49,8 @@ Matematikus szak
 [Algebrai és általános kombinatorika](https://portal.vik.bme.hu/kepzes/targyak/VISZM020/)
 
 [Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
+
+[Elméleti számítástudomány](https://www.cs.bme.hu/~csima/elmszamtud)
 
 [Gráfok, hipergráfok és alkalmazásaik - matematikusoknak](https://www.ttk.bme.hu/kepzes/MSc/tantargyak/matematika/Grafok,%20hipergrafok%20es%20alkalmazasaik.pdf)
 
