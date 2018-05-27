@@ -1,0 +1,12 @@
+Title: Longest Cycles in Polyhedral Graphs
+
+
+We discuss recent results, divided into three main themes, concerning longest cycles in planar 3-connected graphs,
+which we will call {\it polyhedral}. Concretely, we (i) significantly improve the bounds for the orders of the smallest
+quartic and quintic polyhedral graphs which are non-hamiltonian or non-traceable (joint work with Nico Van Cleemput),
+(ii) discuss results on the shortness coefficient of planar cyclically 4-edge-connected cubic graphs (joint work with
+On-Hei S. Lo, Jens M. Schmidt, and Nico Van Cleemput), and (iii) give a panoramic view of recent results on
+non-hamiltonian polyhedral graphs with many hamiltonian vertex-deleted subgraphs.
+
+
+
