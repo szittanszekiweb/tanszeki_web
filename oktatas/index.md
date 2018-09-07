@@ -3,6 +3,7 @@ title: Oktatás
 layout: index
 dropdown: true
 content:
+    - bprof
     - bsc
     - msc
     - szakirany
