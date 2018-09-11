@@ -19,7 +19,7 @@ Műszaki informatikus szak
 
 [Gráfok és algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZA028/) (szabadon választható tárgyként ajánljuk)
 
-[Valószínűségszámítás](http://www.szit.bme.hu/~kela/ind1.html)
+[Valószínűségszámítás](https://www.cs.bme.hu/~cscsgy/vsz/)
 
 
 Villamosmérnök szak
