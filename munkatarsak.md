@@ -35,7 +35,7 @@ Doktoranduszok
 
 |               |               |               |               |
 | ------------- |---------------| ------------- |---------------| 
-|    Palincza Richárd 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto: richard.palincza@gmail.com)	|    |Varga Kitti 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)|
+|    Palincza Richárd 	<br>  IE.2.16.3 <br> 	463-3158 <br>  [email](mailto: richard.palincza@gmail.com)	|    |Varga Kitti 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)|
 | |
 
 Külső munkatársak
