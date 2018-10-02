@@ -1,0 +1,22 @@
+Ez egy áttekintõ jellegû elõadás, amolyan bevezetõ a kvantum
+bonyolultságelmelétbe. Eldobjuk azt a feltételezést, hogy a
+hagyományos Turing géppel gyorsan megoldható problémákat tekintjük
+hatékonynak, hanem ehelyett azokat amik kvantumszámítógéppel polinom
+idõben megoldhatóak. Ez egy sor új bonyolultsági osztályt hiv életre,
+megteremtve ezzel a bonyolultságelmélet egy új ágát. Ebben az
+elõadásban két bonyolultsági osztályt tekintünk át. Röviden beszélünk
+arról miket tekintünk polinom idõben megoldható problémáknak (ez a P
+kvantumos általánosítása). Az elõadás nagy részében pedig azokról a
+problémákról beszelünk amik hatékonyan bizonyíthatóak (ez az NP
+általánosítása). Definiálni fogjuk a megfelelõ osztályt és
+megvizsgáljuk a különbözõ tulajdonságait. Látni fogunk példát ami arra
+utal hogy a kvantumos osztály nem egyenlõ a klasszikussal, és látni
+fogunk a 3SAT-hoz hasonló teljes problémát is. Az idõ függvényében
+beszelünk a hibavalószínûség redukciójáról, illetve az osztály olyan
+változatáról aminek már nincs klasszikus analógiája. Ebben a modellben
+lehetõség van az NP-teljes problémák logaritmikus méretû tanúval
+történõ bizonyítására.
+
+Az elõadásban minden szükséges fogalmat definiálni fogunk, így csak
+alapvetõ lineáris algebrai ismeretekre lesz szükség. A P, NP
+bonyolultsági osztály ismerete elõnyt jelent.
