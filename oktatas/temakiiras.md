@@ -55,6 +55,8 @@ Villamosmérnöki tudományok
 Diplomamunka, önálló labor és TDK 
 ===========================================
 
+Tanszéki témakiírás sablonok: [Word](SZIT-diplomakiiras.doc), [Latex](SZIT-diplomaterv.tex), [logo a Latex-hez](bme_logo_kicsi.pdf)
+
 [Üzleti informatikához kapcsolódó témák](http://www.cs.bme.hu/dok/onlab.html)
 
 dr. Buza Krisztián
