@@ -38,6 +38,9 @@ reflinks:
     same_in_hungarian:
         url: /
         title: Hungarian version
+    szmsz:
+        url: http://cs.bme.hu/SZIT-SZMSZ-pecsettel.pdf
+        title: SZMSZ         
     angol_info:
         url: /english/angol_info.html
         title: Information about our program        

@@ -10,5 +10,6 @@ content:
     - hirek
     - szeminarium
     - emlekoldal
+    - szmsz
     - teremfoglaltsag
 ---
