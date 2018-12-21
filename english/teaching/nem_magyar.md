@@ -23,7 +23,9 @@ Angol nyelvű képzés
 
 [Foundations of Computer Science](http://cs.bme.hu/fcs/)
 
-[Introduction to Computer Science I.](http://cs.bme.hu/bsz1-english)
+[Introduction to Computer Science I.](http://www.cs.bme.hu/itc1/)
+
+[Introduction to Computer Science II.](http://www.cs.bme.hu/itc2/)
 
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 

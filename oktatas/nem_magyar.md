@@ -23,7 +23,9 @@ Angol nyelvű képzés
 
 [Foundations of Computer Science](http://cs.bme.hu/fcs/)
 
-[Introduction to Computer Science I.](http://cs.bme.hu/bsz1-english)
+[Introduction to the Theory of Computing I.](http://www.cs.bme.hu/itc1/)
+
+[Introduction to the Theory of Computing II.](http://www.cs.bme.hu/itc2/)
 
 [Languages and Automata](https://www.cs.bme.hu/~friedl/la)
 

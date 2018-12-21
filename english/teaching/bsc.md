@@ -11,9 +11,9 @@ Software Engineering
 
 [Declarative Programming](http://dp.iit.bme.hu/) (in Hungarian)
 
-[Introduction to the Theory of Computing 1.](http://cs.bme.hu/bsz1-english)
+[Introduction to the Theory of Computing 1.](http://cs.bme.hu/itc1)
 
-[Introduction to the Theory of Computing 2.](https://portal.vik.bme.hu/kepzes/targyak/VISZA110/en/)
+[Introduction to the Theory of Computing 2.](http://cs.bme.hu/itc2)
 
 [Probability Theory](https://portal.vik.bme.hu/kepzes/targyak/VISZAB00/en/)
 
