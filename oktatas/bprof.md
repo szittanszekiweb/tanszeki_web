@@ -7,4 +7,4 @@ pager: true
 
 [Algoritmusok és gráfok](http://www.cs.bme.hu/algraf)
 
-[Valószínűségszámítás B](https://portal.vik.bme.hu/kepzes/targyak/VISZBA02/)
+[Valószínűségszámítás B](http://www.cs.bme.hu/~csakany/bvalszam)

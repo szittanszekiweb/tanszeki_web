@@ -17,7 +17,7 @@ Műszaki informatikus szak
 
 [Deklaratív programozás](http://dp.iit.bme.hu/) 
 
-[Gráfok és algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZA028/) (szabadon választható tárgyként ajánljuk)
+[Gráfok és algoritmusok](http://www.cs.bme.hu/grafalg) (szabadon választható tárgyként ajánljuk)
 
 [Valószínűségszámítás](https://www.cs.bme.hu/~cscsgy/vsz/)
 
@@ -33,7 +33,7 @@ Matematikus szak
 
 [Adatbáziskezelés](http://www.cs.bme.hu/adatb)
 
-[Gráfok és algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZA028/)
+[Gráfok és algoritmusok](http://www.cs.bme.hu/grafalg)
 
 [Kombinatorika és gráfelmélet 1.](http://www.renyi.hu/~geza/kombi/)
 
