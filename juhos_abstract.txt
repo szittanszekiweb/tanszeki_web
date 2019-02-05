@@ -1,0 +1,14 @@
+Pairwise preferences in the stable marriage problem
+
+We study the classical, two-sided stable marriage problem under pairwise
+preferences. In the most general setting, agents are allowed to express their
+preferences as comparisons of any two of their edges and they also have the
+right to declare a draw or even withdraw from such a comparison. This freedom is
+then gradually restricted as we specify six stages of orderedness in the
+preferences, ending with the classical case of strictly ordered lists. We study
+all cases occurring when combining the three known notions of stability - weak,
+strong and super-stability - under the assumption that each side of the
+bipartite market obtains one of the six degrees of orderedness. By designing
+three polynomial algorithms and two NP-completeness proofs we determine the
+complexity of all cases not yet known, and thus give an exact boundary in terms
+of preference structure between tractable and intractable cases.
