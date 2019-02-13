@@ -102,6 +102,7 @@ dr. Friedl Katalin
 dr. Katona Gyula Y.
 
 * [Gráfok robusztussága](http://www.cs.bme.hu/dok/katona1.html)
+* [GUI tesztelő rendszerek, "Coded UI" tesztelési paradigma](http://www.cs.bme.hu/dok/katona8.docx)
 * [Hálózati folyamos feladatok automatizált előállítása](http://www.cs.bme.hu/dok/katona2.html)
 * [Ko-lokációs probléma](http://www.cs.bme.hu/dok/katona5.html)
 * [Szociális hálók  meglévő adatainak felskálázása](http://www.cs.bme.hu/dok/katona4.html)
