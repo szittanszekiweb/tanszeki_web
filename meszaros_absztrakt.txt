@@ -1,0 +1,14 @@
+Az 50-es években Wigner Jenõ szimmetrikus véletlen mátrixok több
+osztályáról is megmutatta, hogy a mátrix méretének növelésével a
+sajátértékeinek eloszlása -- alkalmas normálás esetén -- az
+$\frac{1}{2\pi}\sqrt{4-x^2}$ sûrûségfüggvényû ún. félkör eloszláshoz
+tart. Azonos eloszlású és véges momentummokkal bíró mátrixelemek esetén
+az állítás párosítások leszámlálásának segítségével is bizonyítható, ezt
+az összefüggést szeretném részletesebben is kibontani.
+
+A félkör eloszlás kitüntetett szerepét Dan Voiculescu "szabad
+függetlenség" fogalma segít kontextusba helyezni. Ez valószínûségi
+változók függetlenségének olyan általánosítása, amelyhez tartozó
+centrális határeloszlás tételben a Gauss-eloszlás helyett a félkör
+eloszlás jelenik meg. A függetlenségnek további általánosai is ismertek;
+ezekrõl, és ezen általánoskodás határairól is szót ejtek az elõadásban.
