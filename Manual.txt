@@ -1,0 +1,15 @@
+0.
+git pull 
+
+1.
+md file legyártása
+
+2. 
+make
+(tanszeki_web dirben)
+
+3.
+./urubu serve
+
+4.
+
