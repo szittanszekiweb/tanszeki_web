@@ -12,4 +12,10 @@ make
 ./urubu serve
 
 4.
+localhost:8000
+
+5.
+git add .....
+git commit
+
 
