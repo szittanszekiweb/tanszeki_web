@@ -16,6 +16,7 @@ localhost:8000
 
 5.
 rsync -rv _build/ kiskat@pnp.cs.bme.hu:/home/www/www/
+cp -r /home/www/www/tanszeki_web/_build/* /home/www/www/
 
 6.
 git add .....
