@@ -4,6 +4,16 @@ layout: simple_page_eng
 content:
 ---
 
+Fontos információ
+=================
+
+Sajnos sokan összetévesztik a tanszékünket a [Villamosmérköki és Informatikai Kar](http://www.vik.bme.hu/) egészével, angolul könnyen összetéveszthető a két név.
+A mi tanszékünk oktatási és kutatási tevékenysége nagyrészt matematikai és számítástudományi témákkal kapcsolatos. Az informatika más területeivel a VIK más tanszékei foglalkoznak. Ha tényleg a mi tanszékünkkel szeretné felvenni a kapcsolatot, akkor kérem írjon a tszvez@cs.bme.hu címre. Egyébként a kari honlapon érdemes megfelelő kapcsolatot keresni.
+
+
+Important information, plese read carefully
+===========================================
+
 Our Department is one of the 10 departments of the
 
 [Faculty of Electrical Engineering and Informatics](http://www.vik.bme.hu/en)
