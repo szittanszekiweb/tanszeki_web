@@ -55,18 +55,13 @@ Villamosmérnöki tudományok
 Diplomamunka, önálló labor és TDK 
 ===========================================
 
+**Az alábbi témák nem feltétlenül állnak rendelkezésre minden félévben. Kérjük, hogy bármiféle döntés meghozatala előtt időben vegye fel a kapcsolatot a témavezetővel**
+
 Tanszéki témakiírás sablonok: [Word](SZIT-diplomakiiras.doc), [Latex](SZIT-diplomaterv.tex), [logo a Latex-hez](bme_logo_kicsi.pdf)
 
 [Üzleti informatikához kapcsolódó témák](http://www.cs.bme.hu/dok/onlab.html)
 
-dr. Buza Krisztián
 
-* [Hiányzó értékek kezelésének szisztematikus vizsgálata](http://www.cs.bme.hu/~buza/edu/projects/)
-* [Idősorok hiányzó értékeinek becslése](http://www.cs.bme.hu/~buza/edu/projects/)
-* [Példánykiválasztó (instance selection) algoritmusok vizsgálata](http://www.cs.bme.hu/~buza/edu/projects/)
-* [Gesztikulációk és jelbeszédi jelek felismerése](http://www.cs.bme.hu/~buza/edu/projects/)
-* [Idősorok semi-supervised osztályozása, hibák tovaterjedésének vizsgálata](http://www.cs.bme.hu/~buza/edu/projects/)
-* [Transfer learning](http://www.cs.bme.hu/~buza/edu/projects/)
 
 dr. Csáji Balázs Csanád
 
@@ -113,19 +108,14 @@ dr. Katona Gyula Y.
 * [Tematikus, strukturált, nyomtatott oldalak szövegének felismerése Javában](http://cs.bme.hu/dok/katona7.docx)
 
 
-dr. Ketskeméty László
-
-* [A legközelebbi társ módszer komplexitási problémái](http://www.cs.bme.hu/dok/kelatema1.htm)
-* [Statisztikai kísérlettervezés](http://www.cs.bme.hu/dok/kelatema2.html)
-* [Forex tőzsdeérték alapján a valuta érték megváltozását előrejelző szoftver készítése](http://www.cs.bme.hu/dok/kelatema3.html)
 
 Papp László
 
  * [Gráfok additív kromatikus száma](http://www.cs.bme.hu/dok/papp1.docx)
 
-dr. Pintér Márta
+<!-- dr. Pintér Márta
 
-* [Univerzális predikció](http://www.cs.bme.hu/dok/marti.htm) 
+ * [Univerzális predikció](http://www.cs.bme.hu/dok/marti.htm) -->
 
 dr. Recski András
 
@@ -172,10 +162,7 @@ dr. Wiener Gábor
 * [Hipergráfok nyomai](http://www.cs.bme.hu/dok/wiener3.html) 
 * [Adaptivítás a kereséselméletben](http://www.cs.bme.hu/dok/wiener4.html) 
 
+dr. Vizer Máté
 
-Zlatniczki Ádám
-
-* [Big Data technológiák alkalmazása nagyméretű adatok elemzésére](http://www.cs.bme.hu/dok/zlatniczki1.html) 
-* [Optimális portfóliók vizsgálata, tervezése](http://www.cs.bme.hu/dok/zlatniczki2.html) 
-* [Hatékony vizsgáztatási rendszer tervezése és fejlesztése](http://cs.bme.hu/dok/zlatniczki3.html)
+* [Ritka kombinatorikai struktúrák vizsgálatának algoritmikus kérdései](http://www.cs.bme.hu/dok/vizer.html) 
 
