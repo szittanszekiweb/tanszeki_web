@@ -46,7 +46,7 @@ Külső munkatársak
 |Ács Bernadett <br> acsbernadett at gmail.com| Bencs Ferenc <br> hun.fertoo at gmail.com|
 |Bernáth Attila <br> bernath.athos at gmail.com | Bérczi Kristóf<br>  berkri at cs.elte.hu | 
 |Farkas Rebeka	<br> rebus.detenyleg at gmail.com | Fogaras Dániel <br> daniel.fogaras at gmail.com| 
-|[Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)<br> daroczyb at sztaki.hu | Drótos Márton<br>marton.drotos at sztaki.hu|
+|[Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)<br> daroczyb at sztaki.hu | Drótos Márton<br>drotos at cs.bme.hu|
 |Hanák Péter <br> hanak at emt.bme.hu | Kőrösi Attila<br> korosi at tmit.bme.hu  |
 |Kutas Péter <br> kutasp at gmail.com| Marussy Kristóf <br> kris7topher at gmail.com | 
 |Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu | Nemkin Viktória <br>viktoria.nemkin at cs.bme.hu  | 

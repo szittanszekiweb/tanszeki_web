@@ -19,7 +19,7 @@ Műszaki informatikus szak
 
 [Gráfok és algoritmusok](http://www.cs.bme.hu/grafalg) (szabadon választható tárgyként ajánljuk)
 
-[Valószínűségszámítás](https://www.cs.bme.hu/~cscsgy/vsz/)
+[Valószínűségszámítás](https://www.cs.bme.hu/valszam)
 
 
 Villamosmérnök szak
