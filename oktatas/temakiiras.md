@@ -17,37 +17,35 @@ Ajánljuk továbbá, hogy (lehetőleg a jelentkezés előtt több hónappal) sze
 Informatikai tudományok
 ---------------------------------
 
-[Statisztikus gépi tanulás](http://www.cs.bme.hu/dok/CsBCs_Phd.pdf) (Dr. Csáji Balázs Csanád)
+[Statisztikus gépi tanulás](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=163790) (Dr. Csáji Balázs Csanád)
 
-[Stabil párosítások és alkalmazásaik](http://www.doktori.hu/index.php?menuid=195&tk_ID=6112) (Dr. Fleiner Tamás)
+[Stabil párosítások és alkalmazásaik](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=146808) (Dr. Fleiner Tamás)
 
-[Hatékony algoritmusok](http://www.doktori.hu/index.php?menuid=195&tk_ID=47725) (Dr. Friedl Katalin)
+[Kvantumalgoritmusok](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=100066) (Dr. Friedl Katalin)
 
-[Gráfok robosztussága](http://www.doktori.hu/index.php?menuid=195&tk_ID=6114) (Dr. Katona Gyula)
+[Gráfok robosztussága](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=137433) (Dr. Katona Gyula)
 
-[Paraméteres algoritmusok és bonyolultságelmélet](http://www.doktori.hu/index.php?menuid=195&tk_ID=6124) (Dr. Marx Dániel)
+[Kombinatorikus optimalizálás és műszaki alkalmazásai](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=137372) (Dr. Recski András)
 
-[Kombinatorikus optimalizálás és műszaki alkalmazásai](http://www.doktori.hu/index.php?menuid=195&tk_ID=6115) (Dr. Recski András)
-
-[Gráfok színezései](http://www.doktori.hu/index.php?menuid=195&tk_ID=6116) (Dr. Simonyi Gábor)
+[Gráfok színezései](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=136019) (Dr. Simonyi Gábor)
 
 [Deklaratív programozás](http://www.doktori.hu/index.php?menuid=195&tk_ID=6117) (Dr. Szeredi Péter)
 
-[Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban](http://www.doktori.hu/index.php?menuid=195&tk_ID=6119) (Dr. Szeszlér Dávid)
+[Hálózatok megbízhatóságának mérése játékelméleti eszközökkel](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=165253) (Dr. Szeszlér Dávid)
 
-[Véletlen bolyongás fraktál jellegű gráfokon](http://www.doktori.hu/index.php?menuid=195&tk_ID=6120) (Dr. Telcs András)
+[Causality analysis in economy, ecology and other fields](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=157021) (Dr. Telcs András)
 
-[Hipergráfok nyomai](http://www.doktori.hu/index.php?menuid=195&tk_ID=6122) (Dr. Wiener Gábor)
+[Gráfok hosszú körei és útjai](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=165255) (Dr. Wiener Gábor)
 
 Villamosmérnöki tudományok
 ------------------------------
 
 
-[Gráfok robosztussága](http://www.doktori.hu/index.php?menuid=195&tk_ID=6104) (Dr. Katona Gyula)
+[Gráfok robosztussága](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=137433) (Dr. Katona Gyula)
 
 [Kombinatorikus optimalizálás és műszaki alkalmazásai](http://www.doktori.hu/index.php?menuid=195&tk_ID=6106) (Dr. Recski András)
 
-[Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban](http://www.doktori.hu/index.php?menuid=195&tk_ID=6109) (Dr. Szeszlér Dávid)
+[Kombinatorikus algoritmusok a 3-dimenziós VLSI-huzalozásban](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=54906) (Dr. Szeszlér Dávid)
 
 
 
@@ -84,7 +82,6 @@ dr. Csima Judit
 * [Mély tanulás nagy gráfokon](http://cs.bme.hu/dok/csima_katona_3.html)
 * [Angol nyelvet értő mesterséges intelligencia fejlesztése Python nyelven](http://cs.bme.hu/dok/csima2.docx)
 * [Algoritmikus végrehajtási stratégiák vizsgálata elektronikus kereskedési platformokon](http://cs.bme.hu/dok/csima3.docx)
-* [DNS alapú kiszámítás](http://cs.bme.hu/dok/csima.html)
 
 dr. Fleiner Tamás
 
