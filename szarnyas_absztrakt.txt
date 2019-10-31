@@ -1,0 +1,28 @@
+﻿Szárnyas Gábor (BME MIT):
+
+GraphBLAS: A linear algebraic approach for high-performance graph algorithms
+
+Designing efficient graph algorithms is challenging from both the
+theoretical and practical points of view. While the duality of graphs
+and sparse adjacency matrices is well-known, open-source graph
+processing systems have rarely used matrix-based programming models
+and researchers did not reach a consensus on the building blocks
+necessary for creating high-performance graph algorithms. The
+GraphBLAS initiative (launched in 2013) aims to define a standard to
+capture graph algorithms in the language of linear algebra - following
+the footsteps of the BLAS standard which, starting four decades ago,
+revolutionized scientific computing by defining constructs on dense
+matrices.
+In this talk, I give an overview of the GraphBLAS standard and its key
+components. First, I illustrate how matrix operations on various
+semirings correspond to the steps in graph algorithms. I then use
+these operations to present five distinct graph algorithms: BFS,
+shortest paths, clustering coefficient, PageRank, and community
+detection. I discuss the connection between sparse matrix
+multiplication operations and the family of worst-case optimal join
+algorithms (used for computing multiway join operations). Finally, I
+demonstrate the scalability of the GraphBLAS-based algorithms and list
+some open problems.
+
+Ha esetleg van magyarul nem beszélő érdeklődő, bátran jöhet, akkor 
+angolul lesz. Ha nincs, akkor magyarul.
