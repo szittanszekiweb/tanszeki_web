@@ -40,7 +40,10 @@ reflinks:
         title: Hungarian version
     szmsz:
         url: http://cs.bme.hu/SZIT-SZMSZ-pecsettel.pdf
-        title: SZMSZ         
+        title: SZMSZ
+    ugyrend:
+        url: http://cs.bme.hu/ugyrend.pdf
+        title: Ügyrend
     angol_info:
         url: /english/angol_info.html
         title: Information about our program        

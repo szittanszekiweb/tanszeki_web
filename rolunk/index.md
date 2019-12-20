@@ -11,5 +11,6 @@ content:
     - szeminarium
     - emlekoldal
     - szmsz
+    - ugyrend
     - teremfoglaltsag
 ---
