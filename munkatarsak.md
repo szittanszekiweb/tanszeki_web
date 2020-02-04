@@ -49,7 +49,7 @@ Külső munkatársak
 |[Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)<br> daroczyb at sztaki.hu | Drótos Márton<br>drotos at cs.bme.hu|
 |Hanák Péter <br> hanak at emt.bme.hu | Kőrösi Attila<br> korosi at tmit.bme.hu  |
 |Kutas Péter <br> kutasp at gmail.com| Marussy Kristóf <br> kris7topher at gmail.com | 
-|Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu | Nemkin Viktória <br>viktoria.nemkin at cs.bme.hu  | 
+|Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu | Nemkin Viktória <br>nemkin at cs.bme.hu  | 
 |Nguyen Hai <br> nthaitrx at gmail.com |  Ottucsák György <br> oti at cs.bme.hu | 
 |Richlik György<br> IE.2.16.2<br> 463-2897<br> richlik at cs.bme.hu | Sári András Lajos <br> ocsi at infornax.hu | 
 |Takács Balázs <br> t.balazs49 at gmail.com| Tóth Dávid <br> Toth_David at phd.ceu.edu|
