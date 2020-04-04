@@ -12,6 +12,13 @@ Tanszékvezető
 |[Dr. Katona Gyula](http://www.cs.bme.hu/~kiskat)<br> egyetemi docens<br> IB 133/a <br> tel: 463-2587<br>[email](mailto:kiskat@cs.bme.hu)  |  ![minipic](./fenykepek/katona.jpg =100x20)| 
 
 
+Tanszékvezető-helyettes
+=============
+
+|               |               |
+| ------------- |:-------------:| 
+|[Dr. Wiener Gábor](http://www.cs.bme.hu/~wiener)	<br>  egyetemi docens		<br> IB.136A		<br> tel: 463-3162<br> [email](mailto:wiener@cs.bme.hu) 	|![minipic](./fenykepek/wiener.jpg =100x20) |
+
 Fő- és félállású munkatársak
 =============================
 
@@ -27,7 +34,6 @@ Fő- és félállású munkatársak
 |[Dr. Simonyi Gábor](http://www.cs.bme.hu/~simonyi)	<br>  egyetemi tanár			<br> IE 2.17.3	<br> tel: 463-3159<br> [email](mailto:simonyi@renyi.hu)  |![minipic](./fenykepek/simonyi.jpg =100x20)  | Szabó Réka 	<br>  egyetemi tanársegéd<br> IB 136/a 	<br>  tel: 463-3162<br> [email](mailto:szabo@cs.bme.hu)	|	![minipic](./fenykepek/szabo.jpg =100x20)| 
 |[Dr. Szeredi Péter](http://www.cs.bme.hu/~szeredi)	<br> címzetes egyetemi tanár	<br> IE.2.16.3	<br>  tel: 463-2986<br> [email](mailto:szeredi@cs.bme.hu) |![minipic](./fenykepek/szeredi.jpg =100x20) | [Dr. Szeszlér Dávid](http://www.cs.bme.hu/~szeszler) 	<br>  egyetemi docens	<br> IB.136A	<br>  tel: 463-3162<br> [email](mailto:szeszler@cs.bme .hu)|![minipic](./fenykepek/szeszler.jpg =100x20)| 
 |[Dr. Telcs András](http://www.cs.bme.hu/~telcs)	<br>  egyetemi docens		<br> IE.2.16.2	<br>  tel: 463-2897<br> [email](mailto:telcs@cs.bme.hu)  	|![minipic](./fenykepek/telcs2.jpg =100x20)   |  [Dr. Tóth Géza](http://www.cs.bme.hu/~geza)			<br>  egyetemi docens	<br> IB 137/b	<br> tel: 463-3161<br> [email](mailto:geza@renyi.hu)		|![minipic](./fenykepek/toth.jpg =100x20)| 
-|[Dr. Wiener Gábor](http://www.cs.bme.hu/~wiener)	<br>  egyetemi docens		<br> IB.136A		<br> tel: 463-3162<br> [email](mailto:wiener@cs.bme.hu) 	|![minipic](./fenykepek/wiener.jpg =100x20) |
 
 
 Doktoranduszok
