@@ -142,8 +142,6 @@ dr. Szeszlér Dávid
 dr. Telcs András
 
 
-* [Elosztott elektronikus szavzórendszer fejlesztése](http://www.cs.bme.hu/dok/telcsj.doc) 
-* [Tudománymetriai vizsgálatok](http://www.cs.bme.hu/dok/telcsk.docx) 
 * [Kutassunk agyat!](http://www.cs.bme.hu/dok/telcsi.docx) 
 * [Véletlen gráfok](http://www.cs.bme.hu/dok/telcs1.docx)
 * [Sztochasztikus folyamatok közötti kauzalitás, nagy hálózatok kauzális szerkezete](http://www.cs.bme.hu/dok/telcs2.docx) 
