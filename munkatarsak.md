@@ -9,7 +9,7 @@ Tanszékvezető
 
 |               |               |
 | ------------- |:-------------:| 
-|[Dr. Katona Gyula](http://www.cs.bme.hu/~kiskat)<br> egyetemi docens<br> IB 133/a <br> tel: 463-2587<br>[email](mailto:kiskat@cs.bme.hu)  |  ![minipic](./fenykepek/katona.jpg =100x20)| 
+|[Dr. Katona Gyula](http://www.cs.bme.hu/~kiskat)<br> egyetemi docens<br> IB 133/a <br> tel: 463-2587<br>[email](mailto:katona.gyula@vik.bme.hu)  |  ![minipic](./fenykepek/katona.jpg =100x20)| 
 
 
 Tanszékvezető-helyettes
@@ -33,7 +33,8 @@ Fő- és félállású munkatársak
 |[Dr. Sali Attila](http://www.cs.bme.hu/~sali)		<br>  egyetemi docens		<br> IB 137/b	<br>  tel: 463-3161<br> [email](mailto:sali@renyi.hu)   	|![minipic](./fenykepek/sali.jpg =100x20)	| [Dr. Schlotter Ildikó](http://www.cs.bme.hu/~ildi)		<br>  egyetemi docens	<br> IB 136/b 	<br> tel: 463-2987<br> [email](mailto:ildi@cs.bme.hu)	| 
 |[Dr. Simonyi Gábor](http://www.cs.bme.hu/~simonyi)	<br>  egyetemi tanár			<br> IE 2.17.3	<br> tel: 463-3159<br> [email](mailto:simonyi@renyi.hu)  |![minipic](./fenykepek/simonyi.jpg =100x20)  | Szabó Réka 	<br>  egyetemi tanársegéd<br> IB 136/a 	<br>  tel: 463-3162<br> [email](mailto:szabo@cs.bme.hu)	|	![minipic](./fenykepek/szabo.jpg =100x20)| 
 |[Dr. Szeredi Péter](http://www.cs.bme.hu/~szeredi)	<br> címzetes egyetemi tanár	<br> IE.2.16.3	<br>  tel: 463-2986<br> [email](mailto:szeredi@cs.bme.hu) |![minipic](./fenykepek/szeredi.jpg =100x20) | [Dr. Szeszlér Dávid](http://www.cs.bme.hu/~szeszler) 	<br>  egyetemi docens	<br> IB.136A	<br>  tel: 463-3162<br> [email](mailto:szeszler@cs.bme .hu)|![minipic](./fenykepek/szeszler.jpg =100x20)| 
-|[Dr. Telcs András](http://www.cs.bme.hu/~telcs)	<br>  egyetemi docens		<br> IE.2.16.2	<br>  tel: 463-2897<br> [email](mailto:telcs@cs.bme.hu)  	|![minipic](./fenykepek/telcs2.jpg =100x20)   |  [Dr. Tóth Géza](http://www.cs.bme.hu/~geza)			<br>  egyetemi docens	<br> IB 137/b	<br> tel: 463-3161<br> [email](mailto:geza@renyi.hu)		|![minipic](./fenykepek/toth.jpg =100x20)| 
+|[Dr. Telcs András](http://www.cs.bme.hu/~telcs)	<br>  egyetemi docens		<br> IE.2.16.2	<br>  tel: 463-2897<br> [email](mailto:telcs@cs.bme.hu)  	|![minipic](./fenykepek/telcs2.jpg =100x20)   |  Tóth Dávid Ákos <br>  egyetemi tanársegéd <br> I.E.2.16.2	<br>  tel: 463-2897<br> [email](mailto:davidtoth@edu.bme.hu) | ![minipic](./fenykepek/Toth_David.jpg =100x20)|
+| [Dr. Tóth Géza](http://www.cs.bme.hu/~geza)			<br>  egyetemi docens	<br> IB 137/b	<br> tel: 463-3161<br> [email](mailto:geza@renyi.hu)		|![minipic](./fenykepek/toth.jpg =100x20)| 
 
 
 Doktoranduszok
@@ -41,8 +42,10 @@ Doktoranduszok
 
 |               |               |               |               |
 | ------------- |---------------| ------------- |---------------| 
-|    Palincza Richárd 	<br>  IE.2.16.3 <br> 	463-3158 <br>  [email](mailto: richard.palincza@gmail.com)	|    |Varga Kitti 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)|
-| |
+|    Gujgiczer Anna 	<br>  IE.2.17.3 <br> 	463-3159 <br>  [email](mailto: gujgiczer.anna@edu.bme.hu)	|  ![minipic](./fenykepek/Gujgiczer_Anna.jpg =100x20)  |    Horváth Bálint 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto: horvathbalint@edu.bme.hu)	| |
+|Khan Humara 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:humara.khan@edu.bme.hu)	| ![minipic](./fenykepek/Khan_Humara.jpg =100x20)| Palincza Richárd 	<br>  IE.2.16.3 <br> 	463-3159 <br>  [email](mailto: richard.palincza@gmail.com)	|     |
+|Varga Kitti 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)| | |
+
 
 Külső munkatársak
 ==================
@@ -51,15 +54,13 @@ Külső munkatársak
 | ------------- |---------------| 
 |Ács Bernadett <br> acsbernadett at gmail.com| Bencs Ferenc <br> hun.fertoo at gmail.com|
 |Bernáth Attila <br> bernath.athos at gmail.com | Bérczi Kristóf<br>  berkri at cs.elte.hu | 
-|Farkas Rebeka	<br> rebus.detenyleg at gmail.com | Fogaras Dániel <br> daniel.fogaras at gmail.com| 
-|[Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)<br> daroczyb at sztaki.hu | Drótos Márton<br>drotos at cs.bme.hu|
-|Hanák Péter <br> hanak at emt.bme.hu | Kőrösi Attila<br> korosi at tmit.bme.hu  |
+| Fogaras Dániel <br> daniel.fogaras at gmail.com|[Daróczy Bálint](http://www.cs.bme.hu/~daroczyb)<br> daroczyb at sztaki.hu | 
+|Drótos Márton<br>drotos at cs.bme.hu| Hanák Péter <br> hanak at emt.bme.hu |
 |Kutas Péter <br> kutasp at gmail.com| Marussy Kristóf <br> kris7topher at gmail.com | 
 |Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu | Nemkin Viktória <br>nemkin at cs.bme.hu  | 
 |Nguyen Hai <br> nthaitrx at gmail.com |  Ottucsák György <br> oti at cs.bme.hu | 
 |Richlik György<br> IE.2.16.2<br> 463-2897<br> richlik at cs.bme.hu | Sári András Lajos <br> ocsi at infornax.hu | 
-|Takács Balázs <br> t.balazs49 at gmail.com| Tóth Dávid <br> Toth_David at phd.ceu.edu|
-|Vizer Máté <br>  mmvizer at gmail.com |  |
+|Takács Balázs <br> t.balazs49 at gmail.com| Vizer Máté <br>  mmvizer at gmail.com |  |
 
   
  
