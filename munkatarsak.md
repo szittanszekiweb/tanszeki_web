@@ -42,7 +42,7 @@ Doktoranduszok
 
 |               |               |               |               |
 | ------------- |---------------| ------------- |---------------| 
-|    Gujgiczer Anna 	<br>  IE.2.17.3 <br> 	463-3159 <br>  [email](mailto: gujgiczer.anna@edu.bme.hu)	|  ![minipic](./fenykepek/Gujgiczer_Anna.jpg =100x20)  |    Horváth Bálint 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto: horvathbalint@edu.bme.hu)	| |
+|    Gujgiczer Anna 	<br>  IE.2.17.3 <br> 	463-3159 <br>  [email](mailto: gujgiczer.anna@edu.bme.hu)	|  ![minipic](./fenykepek/Gujgiczer_Anna.jpg =100x20)  |    Horváth Bálint 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto: horvathbalint@edu.bme.hu)	|  ![minipic](./fenykepek/Horvath_Balint.jpg =100x20)|
 |Khan Humara 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:humara.khan@edu.bme.hu)	| ![minipic](./fenykepek/Khan_Humara.jpg =100x20)| Palincza Richárd 	<br>  IE.2.16.3 <br> 	463-3159 <br>  [email](mailto: richard.palincza@gmail.com)	|     |
 |Varga Kitti 	<br>  IE.2.17.2 <br> 	463-3158 <br>  [email](mailto:vkitti@cs.bme.hu)	| ![minipic](./fenykepek/varga.jpg =100x20)| | |
 

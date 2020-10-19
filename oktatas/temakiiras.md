@@ -143,7 +143,6 @@ dr. Telcs András
 
 
 * [Kutassunk agyat!](http://www.cs.bme.hu/dok/telcsi.docx) 
-* [Véletlen gráfok](http://www.cs.bme.hu/dok/telcs1.docx)
 * [Sztochasztikus folyamatok közötti kauzalitás, nagy hálózatok kauzális szerkezete](http://www.cs.bme.hu/dok/telcs2.docx) 
 
 dr. Tóth Géza
