@@ -53,6 +53,29 @@ Villamosmérnöki tudományok
 Diplomamunka, önálló labor és TDK 
 ===========================================
 
+Információk BSc-s szakirány választáshoz
+-----------------------------------------
+
+
+Aki BSc képzésen a VIR szakirányt választja, annak választania kell egy tanszéket
+az ETT, SZIT és TMIT tanszékek közül. A választás következménye, hogy
+ezen a tanszéken kell felvenni a Témalabor, Önálló Labor és Szakdolgozat
+tárgyakat. A SZIT-et akkor érdemes választani, ha a hallgatót a SZIT
+valamely oktatójának kutatási témája érdekli (ami jellemzően valamilyen
+diszkrét matematika vagy elméleti számítástudomány). Ezek a témák ritkán
+állnak a közel a VIR fő témájához. Ezen kívül még adatelemzéssel illetve
+pénzügy matematikával foglalkozó cégekkel vannak jó kapcsolataink, ahova
+ki tudjuk közvetíteni a hallgatókat, de ezekhez is elvárás az erős
+matematikai tudás.
+
+Aki azért választaná a VIR szakirányt, mert a SZIT tárgyait kedvelte
+eddig, azt lebeszéljük róla. A szakirány tárgyainak nagy része messze
+esik ezektől. Keressen meg valakit a tanszékről, igyekszünk adni
+valamilyen hasznos tanácsot.
+
+Témák (Bsc és Msc is)
+---------------------
+
 **Az alábbi témák nem feltétlenül állnak rendelkezésre minden félévben. Kérjük, hogy bármiféle döntés meghozatala előtt időben vegye fel a kapcsolatot a témavezetővel**
 
 Tanszéki témakiírás sablonok: [Word](SZIT-diplomakiiras.doc), [Latex](SZIT-diplomaterv.tex), [logo a Latex-hez](bme_logo_kicsi.pdf)
