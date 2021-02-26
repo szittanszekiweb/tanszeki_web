@@ -60,7 +60,7 @@ Külső munkatársak
 |Mihálka Éva Zsuzsanna  <br> mihalka at cs.bme.hu | Nemkin Viktória <br>nemkin at cs.bme.hu  | 
 |Nguyen Hai <br> nthaitrx at gmail.com |  Ottucsák György <br> oti at cs.bme.hu | 
 |Richlik György<br> IE.2.16.2<br> 463-2897<br> richlik at cs.bme.hu | Sári András Lajos <br> ocsi at infornax.hu | 
-|Takács Balázs <br> t.balazs49 at gmail.com| Vizer Máté <br>  mmvizer at gmail.com |  |
+|Takács Balázs <br> t.balazs49 at gmail.com| Vizer Máté <br>  vizermatebme at gmail.com |  |
 
   
  
