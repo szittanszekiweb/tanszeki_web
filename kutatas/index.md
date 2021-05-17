@@ -5,6 +5,7 @@ dropdown: true
 content:
     - publikaciok
     - otka
+    - ppp
     - ../oktatas/temakiiras
     - cimlapok
 ---

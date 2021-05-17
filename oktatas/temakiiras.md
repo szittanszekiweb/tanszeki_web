@@ -125,7 +125,9 @@ dr. Katona Gyula Y.
 * [Végeselemes megoldó részletének kidolgozása C++14-ben](http://cs.bme.hu/dok/katona6.docx)
 * [Tematikus, strukturált, nyomtatott oldalak szövegének felismerése Javában](http://cs.bme.hu/dok/katona7.docx)
 
+dr. Pach Péter Pál
 
+* [Aritmetikai kombinatorika](http://arithmeticcombinatorics.cs.bme.hu/)
 
 Papp László
 
