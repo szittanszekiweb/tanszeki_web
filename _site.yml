@@ -25,7 +25,10 @@ reflinks:
         title: Emlékezés régi kollégáinkra
     ppp:
         url: http://arithmeticcombinatorics.cs.bme.hu/
-        title: Aritmetikai kombinatorika         
+        title: Aritmetikai kombinatorika       
+    kvantum:
+        url: https://cs.bme.hu/quantum/
+        title: Kvantumalgoritmusok      
     teremfoglaltsag:
         url: http://cs.bme.hu/teremfoglaltsag.html
         title: Tanszéki termek foglaltsága

@@ -124,6 +124,7 @@ dr. Katona Gyula Y.
 * [Mély tanulás nagy gráfokon](http://cs.bme.hu/dok/csima_katona_3.html)
 * [Végeselemes megoldó részletének kidolgozása C++14-ben](http://cs.bme.hu/dok/katona6.docx)
 * [Tematikus, strukturált, nyomtatott oldalak szövegének felismerése Javában](http://cs.bme.hu/dok/katona7.docx)
+* [Hogyan csomagoljon egy csomagküldő?](http://cs.bme.hu/dok/katona9.html)
 
 dr. Pach Péter Pál
 
@@ -169,6 +170,10 @@ dr. Telcs András
 
 * [Kutassunk agyat!](http://www.cs.bme.hu/dok/telcsi.docx) 
 * [Sztochasztikus folyamatok közötti kauzalitás, nagy hálózatok kauzális szerkezete](http://www.cs.bme.hu/dok/telcs2.docx) 
+
+dr. Tóbiás András
+
+* [Populációgenetikai modellek hatékony szimulációja](http://www.cs.bme.hu/dok/tobias.html)
 
 dr. Tóth Géza
 

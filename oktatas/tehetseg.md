@@ -21,3 +21,10 @@ Szakkör
 [ACM szakkör](http://cs.bme.hu/acm/) 
 
 
+Kőnig Dénes Diszkrétmatematika-verseny
+=======================================
+
+A Kőnig Dénes Diszkrétmatematika-verseny a Számítástudományi és Információelméleti tanszék által szervezett kari matematikaverseny. A verseny névadója, Kőnig Dénes (Budapest, 1884. szeptember 21. – Budapest, 1944. október 19.) a műszaki egyetem volt tanára, és az első gráfelméleti könyv szerzője.
+
+
+[A verseny weboldala](http://cs.bme.hu/konig)

@@ -12,5 +12,6 @@ content:
     - emlekoldal
     - szmsz
     - ugyrend
+    - affiliacio
     - teremfoglaltsag
 ---

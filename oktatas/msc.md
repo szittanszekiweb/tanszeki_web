@@ -21,7 +21,7 @@ Műszaki informatikus szak
 
 [Rendszeroptimalizálás](http://www.cs.bme.hu/rendszeropt)
 
-[Tömegkiszolgálás](https://portal.vik.bme.hu/kepzes/targyak/VISZM106/)
+[Tömegkiszolgálás](http://www.cs.bme.hu/toki)
 
 
 Gazdaságinformatikus szak
@@ -50,7 +50,7 @@ Matematikus szak
 
 [Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
 
-[Elméleti számítástudomány](https://www.cs.bme.hu/~csima/elmszamtud)
+[Elméleti számítástudomány](https://www.cs.bme.hu/elmszamtud)
 
 [Gráfok, hipergráfok és alkalmazásaik - matematikusoknak](https://www.ttk.bme.hu/kepzes/MSc/tantargyak/matematika/Grafok,%20hipergrafok%20es%20alkalmazasaik.pdf)
 

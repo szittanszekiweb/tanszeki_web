@@ -6,6 +6,7 @@ content:
     - publikaciok
     - otka
     - ppp
+    - kvantum
     - ../oktatas/temakiiras
     - cimlapok
 ---

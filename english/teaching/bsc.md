@@ -29,7 +29,7 @@ Electrical Engineering
 Applied Mathematics
 ===================
 
-[Combinatorics and Graph Theory 1.](http://www.cs.bme.hu/~csakany/cgt1) 
+[Combinatorics and Graph Theory 1.](http://www.cs.bme.hu/cgt1) 
 
 [Combinatorics and Graph Theory 2.](https://portal.vik.bme.hu/kepzes/targyak/VISZA026/en/) 
 
