@@ -5,7 +5,7 @@ pager: true
 ---
 
 
-A tanszéki affiliációhoz a következő minták használhatók:
+A tanszéki affiliációhoz a következő minták használhatók (A [kari affiliációs protokoll](https://www.vik.bme.hu/document/4502/original/VE_2022_01_24_Melleklet4_%20BME%20Affili%C3%A1ci%C3%B3s%20protokoll.pdf) itt olvasható)
 
 Angolul:
 --------
