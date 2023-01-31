@@ -13,6 +13,8 @@ Műszaki informatikus szak
 
 [Információelmélet](http://www.cs.bme.hu/infelm)
 
+[Matematikai statisztika](http://cs.bme.hu/stat)
+
 [Nagyhatékonyságú deklaratív programozás laboratórium](https://portal.vik.bme.hu/kepzes/targyak/VISZMB01/)
 
 [Nagyméretű adathalmazok kezelése](https://portal.vik.bme.hu/kepzes/targyak/VISZMA01/cs.bme.hu/nagyadat)
@@ -24,12 +26,14 @@ Műszaki informatikus szak
 [Tömegkiszolgálás](http://www.cs.bme.hu/toki)
 
 
+
+
 Gazdaságinformatikus szak
 =========================
 
 [Adatbányászati technikák](http://www.cs.bme.hu/dm)
 
-[Matematikai statisztika](http://www.szit.bme.hu/~kela/ind7.html)
+[Matematikai statisztika](http://cs.bme.hu/gazdstat)
 
 [Pénzügyi befektetések tervezése](https://portal.vik.bme.hu/kepzes/targyak/GT35M404/)
 

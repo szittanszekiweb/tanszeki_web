@@ -30,7 +30,7 @@ Publikációs listák
 
 [Dr. Kaszanitzky Viktória](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10033138): gráfelmélet, matroidelmélet, kombinatorikus merevség
 
-[Dr. Pach Péter Pál](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10029721): csoportelmélet, számelmélet, kombinatorika
+[Dr. Pach Péter Pál](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10029721): additív kombinatorika, kombinatorika, kombinatorikus algebra
 
 [Papp László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10047037): gráfelmélet, gráf kövezés
 

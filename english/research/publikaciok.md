@@ -37,7 +37,7 @@ graph theory, hypergraphs, toughness, matchings, algorithms
 [Dr. Ketskeméty László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10012962):
 mathematical statistics, SPSS, probability theory
 
-[Dr. Pach Péter Pál](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10029721): group theory, number theory, combinatorics
+[Dr. Pach Péter Pál](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10029721): additive combinatorics, combinatorics, combinatorial algebra
 
 [Papp László](https://vm.mtmt.hu//search/slist.php?nwi=1&inited=1&ty_on=1&url_on=1&cite_type=2&orderby=3D1a&location=mtmt&stn=1&AuthorID=10047037): graph pebbling, graph theory
 
