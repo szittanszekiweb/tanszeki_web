@@ -21,7 +21,7 @@ Német nyelvű képzés
 Angol nyelvű képzés
 ===================
 
-[Combinatorics and Graph Theory 1](http://www.cs.bme.hu/~csakany/cgt1)
+[Combinatorics and Graph Theory 1](http://www.cs.bme.hu/~csakany/itc2)
 
 [Foundations of Computer Science](http://cs.bme.hu/fcs/)
 
