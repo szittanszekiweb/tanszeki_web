@@ -31,6 +31,6 @@ Applied Mathematics
 
 [Combinatorics and Graph Theory 1.](http://www.cs.bme.hu/cgt1) 
 
-[Combinatorics and Graph Theory 2.](https://portal.vik.bme.hu/kepzes/targyak/VISZA026/en/) 
+[Combinatorics and Graph Theory 2.](https://users.renyi.hu/~geza/kombi2-english/) 
 
 

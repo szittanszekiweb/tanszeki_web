@@ -23,6 +23,8 @@ Angol nyelvű képzés
 
 [Combinatorics and Graph Theory 1](http://www.cs.bme.hu/~csakany/itc2)
 
+[Combinatorics and Graph Theory 2](https://users.renyi.hu/~geza/kombi2-english/)
+
 [Foundations of Computer Science](http://cs.bme.hu/fcs/)
 
 [Introduction to the Theory of Computing I.](http://www.cs.bme.hu/itc1/)
