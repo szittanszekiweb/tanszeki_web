@@ -33,6 +33,8 @@ Angol nyelvű képzés
 
 [Languages and Automata](https://www.cs.bme.hu/~friedl/la)
 
+[Probability Theory](https://cs.bme.hu/probability/)
+
 [System optimization](https://portal.vik.bme.hu/kepzes/targyak/VISZMA02/en/)
 
 [Theory of Algorithms](http://cs.bme.hu/thalg/)

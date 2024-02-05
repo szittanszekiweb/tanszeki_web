@@ -12,7 +12,7 @@ Doktori tárgyak
 
 [Algoritmikus kérdések a bioinformatikában](https://portal.vik.bme.hu/kepzes/targyak/VISZD303/)
 
-[A lineáris algebra numerikus módszerei](http://cs.bme.hu/~friedl/lanm/)
+[A lineáris algebra numerikus módszerei](http://cs.bme.hu/lanm/)
 
 [Geometriai algoritmusok](http://www.renyi.hu/~geza/geoalg/)
 

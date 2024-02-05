@@ -7,6 +7,9 @@ pager: true
 Műszaki informatikus szak
 =========================
 
+
+[Adatszerkezetek és algoritmusok (C-tárgy)](http://www.cs.bme.hu/aszal)
+
 [Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
 
 [Gráfok, hipergráfok és alkalmazásaik](https://portal.vik.bme.hu/kepzes/targyak/VISZM231/)
@@ -16,8 +19,6 @@ Műszaki informatikus szak
 [Matematikai statisztika](http://cs.bme.hu/stat)
 
 [Nagyhatékonyságú deklaratív programozás laboratórium](https://portal.vik.bme.hu/kepzes/targyak/VISZMB01/)
-
-[Nagyméretű adathalmazok kezelése](https://portal.vik.bme.hu/kepzes/targyak/VISZMA01/cs.bme.hu/nagyadat)
 
 [Nyelvek és automaták](http://www.cs.bme.hu/nyau)
 
@@ -31,13 +32,8 @@ Műszaki informatikus szak
 Gazdaságinformatikus szak
 =========================
 
-[Adatbányászati technikák](http://www.cs.bme.hu/dm)
-
 [Matematikai statisztika](http://cs.bme.hu/gazdstat)
 
-[Pénzügyi befektetések tervezése](https://portal.vik.bme.hu/kepzes/targyak/GT35M404/)
-
-[Sztochasztikus modellek és adaptív algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZDV06/)
 
 
 Villamosmérnök szak
@@ -60,4 +56,3 @@ Matematikus szak
 
 [Kombinatorikus optimalizálás](http://www.cs.bme.hu/rendszeropt)
 
-[Közgazdasági és pénzügyi idősorok](https://portal.vik.bme.hu/kepzes/targyak/VISZM021/)

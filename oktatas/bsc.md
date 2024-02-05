@@ -19,7 +19,7 @@ Műszaki informatikus szak
 
 [Gráfok és algoritmusok](http://www.cs.bme.hu/grafalg) (szabadon választható tárgyként ajánljuk)
 
-[Valószínűségszámítás](https://www.cs.bme.hu/valszam)
+[Valószínűségszámítás és statisztika](https://www.cs.bme.hu/valszam)
 
 
 Villamosmérnök szak
@@ -40,6 +40,3 @@ Matematikus szak
 [Kombinatorika és gráfelmélet 2.](http://www.renyi.hu/~geza/kombi2/)
 
 
-Egészségügyi szervező szak
-==========================
-[Adatstruktúrák és algoritmusok](https://portal.vik.bme.hu/kepzes/targyak/VISZA062)

@@ -4,8 +4,29 @@ layout: simple_page
 pager: true 
 ---
 
-Vállalati információs rendszerek szakirány (műszaki informatikus BSc)
+Információs rendszerek specializáció (műszaki informatikus BSc, 2022-ban vagy később kezdett hallgatók számára)
+==============================================================================================================
+
+
+[Algoritmikus játékelmélet](https://portal.vik.bme.hu/kepzes/targyak/VISZAC01)
+
+[Algoritmikus problémák megoldása labor](https://portal.vik.bme.hu/kepzes/targyak/VISZAC02)
+
+[Véges matematika](https://portal.vik.bme.hu/kepzes/targyak/VISZAC03)
+
+
+Számításelmélet mellékspecializáció (műszaki informatikus MSc)
 ===============================================================
+
+[Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
+
+[Gráfok, hipergráfok és alkalmazásaik](https://portal.vik.bme.hu/kepzes/targyak/VISZM231/)
+
+[Nagyhatékonyságú deklaratív programozás laboratórium](https://portal.vik.bme.hu/kepzes/targyak/VISZMB01/)
+
+
+Vállalati információs rendszerek szakirány (műszaki informatikus BSc, 2022 előtt kezdett hallgatók számára)
+===========================================================================================================
 
 Információk szakirány választáshoz
 --------------------------------------
@@ -30,29 +51,7 @@ valamilyen hasznos tanácsot.
 
 [Adatelemzés](https://portal.vik.bme.hu/kepzes/targyak/VISZAC00)
 
-[Témalabor](https://portal.vik.bme.hu/kepzes/targyak/VISZAL00/)
-
-[Önálló labor](https://portal.vik.bme.hu/kepzes/targyak/VISZAL01/)
-
-[Szakdolgozat-készítés](https://portal.vik.bme.hu/kepzes/targyak/VISZAT00/)
 
 
-Számításelmélet mellékspecializáció (műszaki informatikus MSc)
-===============================================================
 
-[Algoritmusok és bonyolultságuk](http://www.cs.bme.hu/algbony)
-
-[Gráfok, hipergráfok és alkalmazásaik](https://portal.vik.bme.hu/kepzes/targyak/VISZM231/)
-
-[Nagyhatékonyságú deklaratív programozás laboratórium](https://portal.vik.bme.hu/kepzes/targyak/VISZMB01/)
-
-[Nagyméretű adathalmazok kezelése](https://portal.vik.bme.hu/kepzes/targyak/VISZMA01/cs.bme.hu/nagyadat)
-
-
-[Pénzügyi informatika specializáció (gazdaságinformatikus MSc)](http://fininf.cs.bme.hu/)
-================================================================
-
-[Algoritmikus tőzsdei folyamat-előrejelzés](https://portal.vik.bme.hu/kepzes/targyak/VISZM107/)
-
-[Pénzügyi befektetések tervezése](https://portal.vik.bme.hu/kepzes/targyak/GT35M404/)
 

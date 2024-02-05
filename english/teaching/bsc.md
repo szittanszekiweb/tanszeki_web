@@ -15,7 +15,7 @@ Software Engineering
 
 [Introduction to the Theory of Computing 2.](http://cs.bme.hu/itc2)
 
-[Probability Theory](https://portal.vik.bme.hu/kepzes/targyak/VISZAB00/en/)
+[Probability Theory](https://cs.bme.hu/probability/)
 
 [Theory of Algorithms](http://cs.bme.hu/thalg/)
 
